@@ -1,0 +1,33 @@
+# Site settings
+title: My Brother is Wrong
+email: mpronschinske@gmail.com
+description: "My Pre-Season NFL Power Rankings and Predictions."
+baseurl: /mybrotheriswrong
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 8bc34a
+  secondary: 689f38
+  secondary-dark: ffc107
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/mpron
+  - title: facebook
+    url: https://www.facebook.com/mpronschinskes
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/969363/mpron
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/mpron
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Cary
+  - line: NC
+
+# Build settings
+markdown: kramdown
+permalink: pretty
