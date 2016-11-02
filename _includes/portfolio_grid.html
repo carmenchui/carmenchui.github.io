@@ -1,28 +1,62 @@
 
     <!-- Portfolio Grid Section -->
-    <section id="suck">
+    <section id="cv">
         <div id="portfolio">
         <div class="container">
             <div class="row blackheader">
                 <div class="col-lg-12 text-center">
-                    <h2>Not This Year</h2>
+                    <h2>CV</h2>
                     <hr class="star-primary">
             </div>
             <div class="row">
-                {% for post in site.posts %}
-                    {% if post.category == 'doormat' %}
-                        <div class="col-sm-4 portfolio-item">
-                            <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <i class="fa fa-sign-in fa-3x"></i>
-                                    </div>
-                                </div>
-                                <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                            </a>
-                        </div>
-                    {% endif %}
-                {% endfor %}
+                <dl>
+            <dd class="clear"></dd>
+            
+            <dt>Research Interests</dt>
+            <dd>
+               My research focuses on the formal logical representations of semantic descriptions of information, <i>ontologies</i>, and their applications.  In particular, my work revolves around how information can be efficiently obtained and represented in logical form; a key focus of my work is to determine how to manage and break down large ontologies to ensure they capture the correct semantics, are intrinsically and logically correct, and can be combined with different (smaller) ontologies.  My work contributes to the advancement of knowledge representation, artificial intelligence and logic, with applications in engineering, chemistry, and geometry.
+            </dd>
+			
+            <dd class="clear"></dd>
+            
+            <dt>Education</dt>
+            <dd>
+                <h2>Ph.D. in Industrial Engineering<span>University of Toronto, 2013 - Present</span></h2>
+                <ul>
+                    <li>Currently a Ph.D. Candidate</li>
+                    <li>Dissertation: "An Ontological Approach to Medicinal Chemistry"</li>
+                    <li>Adviser: <a href="http://stl.mie.utoronto.ca/gruninger.html">Michael Gruninger</a></li>
+                </ul>
+                
+               <h2>M.A.Sc. in Industrial Engineering<span>University of Toronto, 2011 - 2013</span></h2>
+                <ul>
+                    <li>Dissertation: <a href="https://tspace.library.utoronto.ca/handle/1807/42747">"Axiomatized Relationships Between Ontologies"</a></li>
+                    <li>Adviser: <a href="http://stl.mie.utoronto.ca/gruninger.html">Michael Gruninger</a></li>
+					<li>Committee: <a href="http://www.eil.utoronto.ca/profiles/foxpro.html">Mark Fox</a>, <a href="http://stl.mie.utoronto.ca/gruninger.html">Michael Gruninger</a>, <a href="http://shulab.mie.utoronto.ca/members/shu/">L.H. Shu</a></li>
+                </ul>
+				
+				<h2>B.A.Sc. in Industrial Engineering<span>University of Toronto, 2007 - 2011</span></h2>
+                <ul>
+                    <li>Graduated with Honours</li>
+					<li>Dissertation: "Reasoning About Changes"</li>
+                    <li>Adviser: <a href="http://stl.mie.utoronto.ca/gruninger.html">Michael Gruninger</a></li>
+                </ul>
+            </dd>
+            
+			<dd class="clear"></dd>
+            
+            <dt>Publications</dt>
+            <dd>Please see <a href="http://dblp.uni-trier.de/pers/hd/c/Chui:Carmen.html">DBLP</a> or <a href="https://scholar.google.ca/citations?user=R1gxO74AAAAJ&hl=en">Google Scholar</a>.
+			</dd>
+			
+            <dd class="clear"></dd>
+            
+            <!--dt>References</dt>
+            <dd>Available on request.</dd>
+            
+            <dd class="clear"></dd-->
+            
+        </dl>
             </div>
         </div>
         </div>
