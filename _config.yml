@@ -11,7 +11,7 @@ title                    : "Carmen Chui"
 title_separator          : "-"
 name                     : &name "Carmen Chui"
 description              : &description "Ph.D. Candidate at the University of Toronto"
-url                      : https://ojcchar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://carmenchui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carmenchui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Carmen Chui"
-  avatar           : "profile.jpg"
+  avatar           : 
   bio              : "Ph.D. Candidate at the University of Toronto"
-  location         : 
+  location         : "Toronto, ON"
   employer         : 
   googlescholar    : ""
   dblp    : "http://dblp.uni-trier.de/pers/hd/c/Chui:Carmen"
