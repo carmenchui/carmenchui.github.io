@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Industrial Engineering, University of Toronto, 2013-present
+* M.A.Sc. in Industrial Engineering, University of Toronto, 2011-2013
+* B.A.Sc. (with honours) in Industrial Engineering, University of Toronto, 2007-2011
 
 Work experience
 ======
@@ -53,7 +53,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
