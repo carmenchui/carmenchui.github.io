@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Carmen Chui"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate"
   location         : "Toronto, ON"
   employer         : "University of Toronto"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : "https://scholar.google.ca/citations?user=R1gxO74AAAAJ&hl=en"
+  email            : "cchui@mie.utoronto.ca"
   uri              : 
   bitbucket        :
   codepen          :
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
