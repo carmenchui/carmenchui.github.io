@@ -1,12 +1,12 @@
-/*
-Title: Teaching & Mentoring
-*/
-
 ---
 layout: archive
-title: |
+title: ""
 permalink: /teaching/
 author_profile: true
+HTML header: <head>
+  <title>Teaching & Mentoring</title>
+</head>
+
 ---
 
 {% include base_path %}
