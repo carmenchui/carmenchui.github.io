@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## PDF
----------
-Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
+Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.  If you have any questions, please send me an email at cchui@mie.utoronto.ca.
 
 ## Education
 ---------
