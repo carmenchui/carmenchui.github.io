@@ -6,9 +6,20 @@ author_profile: true
 
 This is my contact information:
 
-Oscar Chaparro  
-ojchaparroa [at] utdallas [dot] edu  
-Department of Computer Science  
-University of Texas at Dallas  
-800 Campbell Rd, ECSS 4.620  
-Richardson, TX 75080, USA  
+# Email
+cchui [at] mie [dot] utoronto [dot] ca
+
+# Visitor Address
+Room 8120, Bahen Centre for Information Technology (BA 8120)
+40 St George St
+University of Toronto
+Toronto, ON M5S 2E4, CANADA
+
+# Mailing Address
+Carmen Chui
+Department of Mechanical & Industrial Engineering
+5 King's College Road
+University of Toronto
+Toronto, Ontario
+M5S 3G8
+CANADA
