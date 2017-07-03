@@ -12,18 +12,18 @@ redirect_from:
 ## Education
 ---------
 
-**Ph.D., Industrial Engineering**
+**Ph.D., Industrial Engineering**    2013-present
 :   2013-present
 :   University of Toronto
 :   Thesis: *Shape Ontologies for Science & Engineering*
 
-**M.A.Sc., Industrial Engineering**
+**M.A.Sc., Industrial Engineering**    2011-2013
 :   2011-2013
 :   University of Toronto
 :    Thesis: *[Axiomatized Relationships Between Ontologies](https://stl.mie.utoronto.ca/){:target="_blank"}*
 
 
-**BA.Sc. (with honours), Industrial Engineering**
+**BA.Sc. (with honours), Industrial Engineering**    2007-2011
 :   2007-2011
 :   University of Toronto
 :   Thesis: *Shape Ontologies for Science & Engineering*
