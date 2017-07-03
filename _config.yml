@@ -148,6 +148,7 @@ exclude:
   - _pages/awards.md
   - _pages/service.md
   - _pages/mentoring.md
+  - teaching
 keep_files:
   - .git
   - .svn
