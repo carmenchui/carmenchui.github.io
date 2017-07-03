@@ -12,6 +12,7 @@ redirect_from:
 Education
 ---------
 
+| Degree        | Institution           | Year  |
 | ------------- |:-------------:| -----:|
 | Ph.D.      | University of Toronto | 2013--present |
 | M.A.Sc.      | University of Toronto      |   2011-2013 |
