@@ -12,8 +12,9 @@ redirect_from:
 Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.  
 If you have any questions, please send me an email at [cchui@mie.utoronto.ca](mailto:cchui@mie.utoronto.ca).
 
-## Education
 ---------
+
+## Education
 
 ***Ph.D., Industrial Engineering***
 :   2013-present
