@@ -33,10 +33,4 @@ redirect_from:
 :   Stream: Information Systems
 
 ### PDF
-Interested in my full CV? Please view and/or download the following [PDF file](/files/cv.pdf){:target="_blank"}.
-
-<!--object data="/files/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/files/cv.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="./files/cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object--!>
+Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
