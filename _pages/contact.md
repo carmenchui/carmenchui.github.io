@@ -12,18 +12,18 @@ This is my contact information:
 
 ### Visitor Address
 
-> Room 8120 (BA 8120)
-> Bahen Centre for Information Technology
-> 40 St George St
-> University of Toronto
-> Toronto, ON M5S 2E4
-> CANADA
+> Room 8120 (BA 8120)  
+> Bahen Centre for Information Technology  
+> 40 St George St  
+> University of Toronto  
+> Toronto, ON M5S 2E4  
+> CANADA  
 
 ### Mailing Address
 
-> Carmen Chui
-> Department of Mechanical & Industrial Engineering
-> 5 King's College Road
-> University of Toronto
-> Toronto, Ontario M5S 3G8
-> CANADA
+> Carmen Chui  
+> Department of Mechanical & Industrial Engineering  
+> 5 King's College Road  
+> University of Toronto  
+> Toronto, Ontario M5S 3G8  
+> CANADA  
