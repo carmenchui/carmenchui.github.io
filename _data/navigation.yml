@@ -7,8 +7,10 @@ main:
     url: /publications/
 
   - title: "Teaching & Mentoring"
-    url: /teaching/    
-
+    url: /teaching/ 
+      - title: "Mentoring"
+        url: /mentoring/
+        
   - title: "Curriculum Vitae"
     url: /cv/ 
 
