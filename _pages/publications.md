@@ -10,8 +10,3 @@ You can also find my publications on <u><a href="{{site.author.googlescholar}}">
 {% include base_path %}
 
 {% include publications-bibase.html %}
-
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
