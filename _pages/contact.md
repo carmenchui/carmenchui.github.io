@@ -4,7 +4,7 @@ title: "Contact"
 author_profile: true
 ---
 
-This is my contact information:
+You can reach me at the following:
 
 ### Email
 

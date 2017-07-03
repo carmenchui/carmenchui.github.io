@@ -6,5 +6,8 @@ main:
   - title: "Teaching & Mentoring"
     url: /teaching/    
 
+  - title: "Curriculum Vitae"
+    url: /cv/ 
+
   - title: "Contact"
     url: /contact/ 
