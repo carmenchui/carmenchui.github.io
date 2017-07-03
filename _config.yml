@@ -143,6 +143,8 @@ exclude:
   - talkmap
   - _posts
   - other_july02
+  - service
+  - awards
 keep_files:
   - .git
   - .svn
