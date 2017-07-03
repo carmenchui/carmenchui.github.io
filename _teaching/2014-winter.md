@@ -1,5 +1,5 @@
 ---
-title: "Winter 2014 (UTD)"
+title: "Winter 2014 (UofT)"
 collection: teaching
 venue: ""
 date: 2016-01-19
