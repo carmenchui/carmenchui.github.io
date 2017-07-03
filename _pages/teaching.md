@@ -13,13 +13,13 @@ author_profile: true
 In addition to invigilating faculty-wide exams, I designed and conducted tutorials, held office hours, graded progress and final reports, and designed and graded programming and theoretical assignments, tests, and exams for the following courses as a **Teaching Assistant (TA)**:
 
 ### Graduate Courses
-In the Department of Mechanical & Industrial Engineering:
+In the [Department of Mechanical & Industrial Engineering](http://www.mie.utoronto.ca/){:target="_blank"}:
 * MIE 1505 - Enterprise Modelling
     * Taught by Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}
     * Fall 2016
 
 ### Undergraduate Courses
-In the Department of Mechanical & Industrial Engineering:
+In the [Department of Mechanical & Industrial Engineering](http://www.mie.utoronto.ca/){:target="_blank"}:
 * MIE 191 - Introduction to Mechanical & Industrial Engineering
     * Taught by Prof. [Pierre Sullivan](http://turbulence.mie.utoronto.ca/members/sullivan/){:target="_blank"}
     * Winter 2015, Winter 2016, Winter 2017
