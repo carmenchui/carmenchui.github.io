@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## PDF
+---------
+Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
+
 ## Education
 ---------
 
@@ -32,5 +36,3 @@ redirect_from:
 :   Thesis: *Reasoning About Changes*
 :   Stream: Information Systems  
 
-### Full CV PDF
-Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
