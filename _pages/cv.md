@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+Education
 ---------
+
+| ------------- |:-------------:| -----:|
+| Ph.D.      | University of Toronto | 2013--present |
+| M.A.Sc.      | University of Toronto      |   2011-2013 |
+| B.A.Sc. (with honours) | University of Toronto      |   2007-2011 |
 
 2013-2018 (expected)
 :   **Ph.D., Industrial Engineering**; University of Toronto
