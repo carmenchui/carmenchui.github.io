@@ -3,10 +3,6 @@ layout: archive
 title: ""
 permalink: /teaching/
 author_profile: true
-HTML header: <head>
-  <title>Teaching & Mentoring</title>
-</head>
-
 ---
 
 {% include base_path %}
