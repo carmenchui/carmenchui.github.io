@@ -12,14 +12,9 @@ redirect_from:
 Education
 ---------
 
-| Degree        | Institution           | Year  |
-| :-------------: |:-------------:| :-----:|
-| **Ph.D.**      | University of Toronto | 2013--present |
-| M.A.Sc.      | University of Toronto      |   2011-2013 |
-| B.A.Sc. (with honours) | University of Toronto      |   2007-2011 |
-
-2013-2018 (expected)
-:   **Ph.D., Industrial Engineering**; University of Toronto
+**Ph.D., Industrial Engineering**
+:   2013-2018 (expected)
+:   University of Toronto
 
     *Thesis title: Shape Ontologies for Science & Engineering*
 
