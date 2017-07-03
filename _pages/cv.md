@@ -9,24 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ---------
 
 **Ph.D., Industrial Engineering**
-:   2013-2018 (expected)
+:   2013-present
 :   University of Toronto
+:   Thesis: *Shape Ontologies for Science & Engineering*
 
-    *Thesis title: Shape Ontologies for Science & Engineering*
+**M.A.Sc., Industrial Engineering**
+:   2011-2013
+:   University of Toronto
+:    Thesis: *[Axiomatized Relationships Between Ontologies](https://stl.mie.utoronto.ca/){:target="_blank"}*
 
-2011-2013
-:   **M.A.Sc., Industrial Engineering**; University of Toronto
 
-    *Thesis title: Axiomatized Relationships Between Ontologies*
+**BA.Sc. (with honours), Industrial Engineering**
+:   2007-2011
+:   University of Toronto
+:   Thesis: *Shape Ontologies for Science & Engineering*
+:   Stream: Information Systems
 
-2007-2011
-:   **BA.Sc. (with honours), Industrial Engineering**; University of Toronto
-
-    *Stream: Information Systems*
 
 ### PDF
 Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
