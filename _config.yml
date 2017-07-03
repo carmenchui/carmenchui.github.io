@@ -145,6 +145,8 @@ exclude:
   - other_july02
   - service
   - awards
+  - _pages/awards.md
+  - _pages/service.md
 keep_files:
   - .git
   - .svn
