@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Carmen, an Industrial Engineering Ph.D. Candidate in the [Department of Mechanical & Industrial Engineering](http://www.mie.utoronto.ca/){:target="_blank"} at the [University of Toronto](http://www.utoronto.ca/){:target="_blank"}. My research interests fall in the following areas:
+Hi there! I am Carmen, an Industrial Engineering Ph.D. Candidate in the [Department of Mechanical & Industrial Engineering](http://www.mie.utoronto.ca/){:target="_blank"} at the [University of Toronto](http://www.utoronto.ca/){:target="_blank"}.
+
+# Research Interests
+My research interests fall in the following areas:
 * Ontology design, mapping, and integration
 * Knowledge representation & modelling
 * Automated reasoning of first-order ontologies
