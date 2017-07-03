@@ -12,26 +12,26 @@ redirect_from:
 ## Education
 ---------
 
-**Ph.D., Industrial Engineering**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013-present
+***Ph.D., Industrial Engineering***
 :   2013-present
 :   University of Toronto
 :   Thesis: *Shape Ontologies for Science & Engineering*
+:   Advisor: Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}
 
-**M.A.Sc., Industrial Engineering**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011-2013
+**M.A.Sc., Industrial Engineering**
 :   2011-2013
 :   University of Toronto
-:    Thesis: *[Axiomatized Relationships Between Ontologies](https://stl.mie.utoronto.ca/){:target="_blank"}*
+:   Thesis: *[Axiomatized Relationships Between Ontologies](http://hdl.handle.net/1807/42747){:target="_blank"}*
+:   Advisor: Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}
 
-
-**BA.Sc. (with honours), Industrial Engineering**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007-2011
+**BA.Sc. (with honours), Industrial Engineering**
 :   2007-2011
 :   University of Toronto
-:   Thesis: *Shape Ontologies for Science & Engineering*
+:   Thesis: *Reasoning About Changes*
 :   Stream: Information Systems
 
-
 ### PDF
-Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
+Interested in my full CV? Please view and/or download the following [PDF file](/files/cv.pdf){:target="_blank"}.
 
 <object data="/files/cv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/cv.pdf">
