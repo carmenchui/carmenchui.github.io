@@ -9,12 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Interested in my CV? Please download the following [PDF file](/files/cv.pdf).
-
-embed src
-<embed src="/files/cv.pdf" width="500" height="375" type='application/pdf'>
-
-object embed
+Interested in my CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
 
 <object data="/files/cv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/cv.pdf">
