@@ -9,7 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Interested in my CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
+### Education
+---------
+
+2013-2018 (expected)
+:   **Ph.D., Industrial Engineering**; University of Toronto
+
+    *Thesis title: Shape Ontologies for Science & Engineering*
+
+2011-2013
+:   **M.A.Sc., Industrial Engineering**; University of Toronto
+
+    *Thesis title: Axiomatized Relationships Between Ontologies*
+
+2007-2011
+:   **BA.Sc. (with honours), Industrial Engineering**; University of Toronto
+
+    *Stream: Information Systems*
+
+### PDF
+Interested in my full CV? Please download the following [PDF file](/files/cv.pdf){:target="_blank"}.
 
 <object data="/files/cv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/cv.pdf">
