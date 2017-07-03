@@ -147,6 +147,7 @@ exclude:
   - awards
   - _pages/awards.md
   - _pages/service.md
+  - _pages/mentoring.md
 keep_files:
   - .git
   - .svn
