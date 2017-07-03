@@ -142,6 +142,7 @@ exclude:
   - markdown_generator
   - talkmap
   - _posts
+  - other_july02
 keep_files:
   - .git
   - .svn

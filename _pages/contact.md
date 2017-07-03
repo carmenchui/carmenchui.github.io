@@ -4,7 +4,7 @@ title: "Contact"
 author_profile: true
 ---
 
-You can reach me at the following:
+You can reach me via the following:
 
 ### Email
 
