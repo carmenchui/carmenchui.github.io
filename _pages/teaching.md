@@ -14,7 +14,7 @@ In addition to invigilating faculty-wide exams, I designed and conducted tutoria
 
 ### Graduate Courses
 In the [Department of Mechanical & Industrial Engineering](http://www.mie.utoronto.ca/){:target="_blank"}:
-* [MIE 1505 - Enterprise Modelling](https://www.mie.utoronto.ca/mie/grad/courses#gc336){:target="_blank"}
+* [MIE 1505 - Enterprise Modelling](https://www.mie.utoronto.ca/mie/grad/courses#area_7){:target="_blank"}
     * Taught by Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}
     * Fall 2016
 
