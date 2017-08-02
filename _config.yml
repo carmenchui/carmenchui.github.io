@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carmen Chui"
+title                    : "Carmen S. Chui"
 title_separator          : "-"
-name                     : &name "Carmen Chui"
+name                     : &name "Carmen S. Chui"
 description              : &description "Ph.D. Candidate at the University of Toronto"
 url                      : "https://carmenchui.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carmen Chui"
+  name             : "Carmen S. Chui"
   avatar           : "stl.jpg"
   bio              : "Ph.D. Candidate at the University of Toronto"
   location         : "Toronto, ON"
