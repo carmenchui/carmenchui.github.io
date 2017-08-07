@@ -19,7 +19,7 @@ If you have any questions, please send me an email at [cchui@mie.utoronto.ca](ma
 ***Ph.D., Industrial Engineering***
 :   2013-present
 :   University of Toronto
-:   Thesis: *Shape Ontologies for Science & Engineering*
+:   Thesis: *A Molecular Structure Ontology for Medicinal Chemistry*
 :   Advisor: Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}  
 
 
