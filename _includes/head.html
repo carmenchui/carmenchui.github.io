@@ -15,6 +15,22 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<script type="text/javascript">
+//Enter list of banned ips, each separated with a comma:
+var bannedips=["109.63.140.186", "188.32.139.59", "79.111.94.163", "5.228.118.17","95.28.205.220","176.193.229.167","188.32.240.199","95.221.58.133","109.63.129.239","95.28.228.205","176.193.239.89"]
+
+var ip = '<!--#echo var="REMOTE_ADDR"-->'
+
+var handleips=bannedips.join("|")
+handleips=new RegExp(handleips, "i")
+
+if (ip.search(handleips)!=-1){ 
+alert("Redirecting...")
+window.location.replace("http://www.google.com")
+}
+
+</script>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
