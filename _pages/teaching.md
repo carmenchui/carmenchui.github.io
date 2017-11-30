@@ -23,10 +23,10 @@ In the [Department of Mechanical & Industrial Engineering](http://www.mie.utoron
     * Winter 2015, Winter 2016, Winter 2017
 * [MIE 350 - Design & Analysis of Information Systems](https://portal.engineering.utoronto.ca/sites/calendars/current/Course_Descriptions.html#MIE350H1){:target="_blank"}
     * Taught by Prof. [Reza Samavi](http://www.cas.mcmaster.ca/samavi/){:target="_blank"} in Fall 2011 and  Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"} (Fall 2012 onwards)
-    * Fall 2011, Fall 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016
+    * Fall 2011, Fall 2012, Fall 2013, Fall 2014, Fall 2015, Fall 2016, Fall 2017
 * [MIE 457 - Knowledge Modelling & Management](https://portal.engineering.utoronto.ca/sites/calendars/current/Course_Descriptions.html#MIE457H1){:target="_blank"}
     * Taught by Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}
-    * Winter 2014, Winter 2016, Winter 2017
+    * Winter 2014, Winter 2016, Winter 2017, Winter 2018
 
 ---
 
