@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Interested in my full CV? Please send me an email at [cchui@mie.utoronto.ca](mailto:cchui@mie.utoronto.ca).
-# download the following [PDF file](/files/cv.pdf){:target="_blank"}.  If you have any questions, please 
+
 ---------
 
 ## Education
