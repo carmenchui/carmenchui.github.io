@@ -11,3 +11,6 @@ author_profile: true
 ### Prover9toLaTeX
 
 download the following [jar file](/files/Prover9toLaTeX-1.5.jar){:target="_blank"}.
+
+enter prover9 or latex fol sentences and press buttons to convert them :)
+![screenshot](/files/p9latex_scrnshot.jpg?raw=true)
