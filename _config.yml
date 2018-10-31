@@ -187,6 +187,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  most:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -236,7 +239,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _most
+  - scope:
+      path: ""
+      type: most
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+# _portfolio
 #  - scope:
 #      path: ""
 #      type: portfolio
