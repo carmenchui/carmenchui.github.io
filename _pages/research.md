@@ -11,8 +11,11 @@ My research interests fall in the following areas:
 * Applications of ontologies to data and knowledge integration
 * Engineering education
 
-
-My disseration research aims at developing modular ontologies for manufacturing and medicinal chemistry.  Please click the following link to learn more: [A Molecular Structure Ontology for Medicinal Chemistry](/most/).
+Ph.D. Dissertation
+==================
+My disseration research aims at developing modular ontologies for manufacturing and medicinal chemistry.  Please click the following links to learn more:
+* [A Molecular Structure Ontology for Medicinal Chemistry](/most/)
+* Carmen Chui, Michael Grüninger: _A Molecular Structure Ontology for Medicinal Chemistry_. FOIS 2016: 285-298 [https://doi.org/10.3233/978-1-61499-660-6-285](https://doi.org/10.3233/978-1-61499-660-6-285)
 
 
 Feel free to take a look at my [publications](/publications/) to know more about my research.
