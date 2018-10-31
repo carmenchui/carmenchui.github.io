@@ -6,7 +6,9 @@ author_profile: true
 
 Disclaimer: This page is under construction.  Pardon the mess.
 
-This was work done as part of my Ph.D. thesis at the [University of Toronto](http://www.utoronto.ca) under the supervision of [Prof. Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html).
+- Ph.D. Thesis title: A Molecular Structure Ontology for Medicinal Chemistry
+- Supervisor: [Prof. Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html)
+- Abstract: TBA.
 
 Ontology Organization
 =====================
