@@ -20,5 +20,7 @@ Please click the following links to learn more:
 * [A Molecular Structure Ontology for Medicinal Chemistry](/most/)
 * Carmen Chui, Michael Grüninger: _A Molecular Structure Ontology for Medicinal Chemistry_. FOIS 2016: 285-298 [https://doi.org/10.3233/978-1-61499-660-6-285](https://doi.org/10.3233/978-1-61499-660-6-285)
 
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 Feel free to take a look at my [publications](/publications/) to know more about my research.
