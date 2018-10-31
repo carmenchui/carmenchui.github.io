@@ -1,21 +1,16 @@
 ---
 permalink: /most/
-title: "MoSt"
+title: "MOlecular Structure Ontology (MoSt)"
 author_profile: true
 ---
 
-TBA! This page is under construction.
+Disclaimer: This page is under construction.
 
-# MOlecular Structure Ontology (MoSt)
 
-The ontology represents atoms, bonds, functional groups, and skeletons as elements of the domain in the ontology, and imports theories from [molecular_graph](https://github.com/gruninger/colore/blob/master/ontologies/molecular_graph/).
+Ontology Organization
+=====================
 
 ![most hierarchy](/images/most_semantic_conditions.jpg)
-
-Major Changes
-=============
-- allowed for multiple fusion to handle bridges in molecules
-- april 21, 2017: renamed all inBond/inGroup/etc. relations to mol(x,y) - all axioms will now require sort constraints
 
 Major Design Decisions
 ======================
@@ -24,8 +19,11 @@ The ontology allows for:
 - unique spiro
 - unique tether
 
+The ontology represents atoms, bonds, functional groups, and skeletons as elements of the domain in the ontology, and imports theories from [molecular_graph](https://github.com/gruninger/colore/blob/master/ontologies/molecular_graph/).
+
+
 Verification of Theories
 ================================================
-- This ontology has been verified with theories found in the [tripartite_incidence](https://github.com/gruninger/colore/blob/master/ontologies/tripartite_incidence/) hierarchy.
+- This ontology has been verified with theories found in the [bipartite_incidence](https://github.com/gruninger/colore/blob/master/ontologies/bipartite_incidence/) and [tripartite_incidence](https://github.com/gruninger/colore/blob/master/ontologies/tripartite_incidence/) hierarchies in [COLORE](https://github.com/gruninger/colore).
 - See the [mappings](https://github.com/gruninger/colore/blob/master/ontologies/most/mappings/) folder for translation definitions.
-- See the [interprets](https://github.com/gruninger/colore/blob/master/ontologies/most/interprets/) folder for proofs.
+- See the [experiments](https://github.com/gruninger/colore/blob/master/ontologies/most/experiments/) folder for proofs.
