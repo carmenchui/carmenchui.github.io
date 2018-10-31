@@ -2,10 +2,7 @@
 main:
   - title: "Research"
     url: /research/
-    
-  - title: "MoSt"
-    url: /most/
-    
+        
   - title: "Publications"
     url: /publications/
 
