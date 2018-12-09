@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae (.pdf)](files/cv_web.pdf){:target="_blank"} 
+[Curriculum Vitae (.pdf)](/files/cv_web.pdf){:target="_blank"} 
 
 ---------
 
