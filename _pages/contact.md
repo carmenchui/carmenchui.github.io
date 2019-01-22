@@ -8,7 +8,7 @@ You can reach me via the following:
 
 ### Email
 
-[cchui [at] mie [dot] utoronto [dot] ca](mailto:cchui@mie.utoronto.ca)
+<span style="color:blue">cchui [at] mie [dot] utoronto [dot] ca</span>
 
 ### Visitor Address
 
