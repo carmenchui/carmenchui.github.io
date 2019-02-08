@@ -11,7 +11,7 @@ redirect_from:
 
 <!--[Curriculum Vitae (.pdf)](/files/cv_web.pdf){:target="_blank"} -->
 
-Full CV upon request.
+Full CV available upon request.
 
 ---------
 
