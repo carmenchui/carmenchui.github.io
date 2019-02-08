@@ -18,21 +18,21 @@ Full CV upon request.
 ## Education
 
 ***Ph.D., Industrial Engineering***
-:   2013-present
+:   09/2013-06/2019 (expected)
 :   University of Toronto
 :   Thesis: *A Molecular Structure Ontology for Medicinal Chemistry*
 :   Advisor: Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}  
 
 
 **M.A.Sc., Industrial Engineering**
-:   2011-2013
+:   09/2011-08/2013
 :   University of Toronto
 :   Thesis: *[Axiomatized Relationships Between Ontologies](http://hdl.handle.net/1807/42747){:target="_blank"}*
 :   Advisor: Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}  
 
 
 **BA.Sc. (with honours), Industrial Engineering**
-:   2007-2011
+:   09/2007-06/2011
 :   University of Toronto
 :   Thesis: *Reasoning About Changes*
 :   Stream: Information Systems  
