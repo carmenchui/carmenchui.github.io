@@ -22,14 +22,14 @@ Full CV available upon request.
 :   University of Toronto
 :   Thesis: *A Molecular Structure Ontology for Medicinal Chemistry*
 :   Advisor: Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}  
-
+:   Degree requirements completed in April 2019
+:   Degree to be conferred in June 2019
 
 **M.A.Sc., Industrial Engineering**
 :   09/2011-08/2013
 :   University of Toronto
 :   Thesis: *[Axiomatized Relationships Between Ontologies](http://hdl.handle.net/1807/42747){:target="_blank"}*
 :   Advisor: Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}  
-
 
 **BA.Sc. (with honours), Industrial Engineering**
 :   09/2007-06/2011
@@ -38,6 +38,11 @@ Full CV available upon request.
 :   Stream: Information Systems  
 
 ## Experience
+
+**Postdoctoral Research Fellow**
+:   03/2019 to present
+:   RBC & University of Toronto
+:   Toronto, Canada
 
 **Graduate Research Assistant**
 :   09/2011 to present
