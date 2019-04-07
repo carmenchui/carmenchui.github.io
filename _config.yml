@@ -156,6 +156,14 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 # Sidebar link settings
 sidebar_home_link:  true
