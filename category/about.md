@@ -3,8 +3,7 @@ layout: category
 permalink: /about/
 title: about
 redirect_from: 
-  - /about/
-  - /about.html
+  - /index.html
 ---
 
 
