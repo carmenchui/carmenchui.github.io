@@ -11,6 +11,15 @@
       {% include svg/download.svg %}
     </a>
   {% endif %}
+        {% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.dblp %}
+        <li><a href="{{ author.dblp }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> DBLP</a></li>
+      {% endif %}
+      {% if author.email %}
+        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      {% endif %}
 <!-- 
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
