@@ -4,9 +4,9 @@ highlighter:      rouge
 remote_theme: fongandrew/hydeout
 
 # Setup
-title:            Hydeout
-tagline:          'cv site'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Carmen S. Chui
+tagline:          'Carmen S. Chui'
+description:      ''
 url:              https://carmenchui.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
