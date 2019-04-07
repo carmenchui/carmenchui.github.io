@@ -6,11 +6,11 @@ title: contact
 
 You can reach me via the following:
 
-### Email
+### email
 
 <span style="color:blue">cchui [at] mie [dot] utoronto [dot] ca</span>
 
-### Visitor Address
+### visitor address
 
 > Room 8120 (BA 8120)  
 > Bahen Centre for Information Technology  
@@ -19,7 +19,7 @@ You can reach me via the following:
 > Toronto, ON M5S 2E4  
 > CANADA  
 
-### Mailing Address
+### mailing address
 
 > Carmen Chui  
 > Department of Mechanical & Industrial Engineering  
