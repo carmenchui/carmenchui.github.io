@@ -3,8 +3,6 @@ layout: category
 title: cv
 ---
 
-{% include base_path %}
-
 <!--[Curriculum Vitae (.pdf)](/files/cv_web.pdf){:target="_blank"} -->
 
 Full CV available upon request.
