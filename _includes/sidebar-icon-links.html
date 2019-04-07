@@ -3,13 +3,10 @@
 
 <nav id="sidebar-icon-links">
   {% if author.github %}
-    <a href="{{ author.github }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Google Scholar</a></li>
-      {% include svg/github.svg %}
-    </a>
     <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
-      {% include svg/download.svg %}
+       class="icon" title="github" aria-label="github"
+       href="{{ author.github }}">
+      {% include svg/github.svg %}
     </a>
   {% endif %}
         {% if author.googlescholar %}
