@@ -1,6 +1,6 @@
 ---
 layout: category
-permalink: /cv/
+permalink: /about/
 title: about
 ---
 
