@@ -1,6 +1,7 @@
 ---
+layout: category
 permalink: /research/
-title: "research"
+title: research
 author_profile: true
 ---
 

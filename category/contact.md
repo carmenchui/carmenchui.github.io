@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
-title: "contact"
-author_profile: true
+layout: category
+title: contact
 ---
 
 You can reach me via the following:
