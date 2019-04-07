@@ -10,7 +10,7 @@ Full CV available upon request.
 
 ---------
 
-## Education
+## education
 
 ***Ph.D., Industrial Engineering***
 :   09/2013-06/2019 (expected)
@@ -32,7 +32,7 @@ Full CV available upon request.
 :   Thesis: *Reasoning About Changes*
 :   Stream: Information Systems  
 
-## Experience
+## experience
 
 **Postdoctoral Research Fellow**
 :   03/2019 to present
@@ -92,7 +92,7 @@ Full CV available upon request.
   * Carried out tasks involving primary cell culture, making solutions, and researching the effects of interleukins and mechanical stretching of myometrial (smooth muscle) cells of rat uteri.
 -->
 
-## Teaching
+## teaching
 
 In addition to invigilating faculty-wide exams, I designed and conducted tutorials, held office hours, graded progress and final reports, and designed and graded programming and theoretical assignments, tests, and exams for the following courses as a **Teaching Assistant (TA)**:
 
@@ -114,7 +114,7 @@ In the [Department of Mechanical & Industrial Engineering](http://www.mie.utoron
     * Taught by Prof. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}
     * Winter 2014, Winter 2016, Winter 2017, Winter 2018
 
-## Mentoring
+## mentoring
 
 As part of the APS 1203/1204 course offered with the Prospective Professors in Training (PPIT) program, I was a **mentor** for a group of six first-year undergraduate students taking their Engineering Strategies & Practice II (APS 112) course in the Winter 2017 semester. The group's project is to redesign mathematics in the classroom to make the subject more engaging and interesting for high-school students. We have been featured in the UofT Engineering News in the following article: 
 [http://news.engineering.utoronto.ca/engineering-educational-experience/](http://news.engineering.utoronto.ca/engineering-educational-experience/){:target="_blank"}

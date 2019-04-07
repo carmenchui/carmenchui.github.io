@@ -13,9 +13,7 @@ My research interests fall in the following areas:
 * Engineering education
 
 
-Ph.D. Research
-==============
-My disseration research involves the development of a molecular structure ontology for medicinal chemistry, with a basis in graph theory, as well as new techniques for (first-order) model construction.
+My Ph.D. research involved the development of a molecular structure ontology for medicinal chemistry, with a basis in graph theory, as well as new techniques for (first-order) model construction.
 
 Please click the following links to learn more:
 * Carmen Chui, Michael Grüninger: _A Molecular Structure Ontology for Medicinal Chemistry_. FOIS 2016: 285-298 [https://doi.org/10.3233/978-1-61499-660-6-285](https://doi.org/10.3233/978-1-61499-660-6-285)

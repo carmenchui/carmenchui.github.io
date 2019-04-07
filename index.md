@@ -3,7 +3,7 @@ layout: index
 title: about
 ---
 
-## welcome
+# welcome
 
 Hi there!  
 
