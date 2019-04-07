@@ -3,10 +3,20 @@
 
 <nav id="sidebar-icon-links">
 <a id="github-download-link"
-       class="icon" title="github" aria-label="github"
-       href="{{ author.github }}">
-      {% include svg/github.svg %}
-    </a>
+   class="icon" title="github" aria-label="github"
+   href="https://github.com/carmenchui">
+  {% include svg/github.svg %}
+</a>
+<a id="linkedin-download-link"
+   class="icon" title="linkedin" aria-label="linkedin"
+   href="https://linkedin.com/in/carmenchui">
+  {% include svg/linkedin.svg %}
+</a>
+<a id="dblp-download-link"
+   class="icon" title="dblp" aria-label="dblp"
+   href="http://dblp.uni-trier.de/pers/hd/c/Chui:Carmen">
+  {% include svg/books.svg %}
+</a>
 
         {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Google Scholar</a></li>
