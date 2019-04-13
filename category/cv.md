@@ -4,7 +4,6 @@ permalink: /cv/
 title: Carmen Chui's CV
 ---
 # Carmen S. Chui
-Bioinformatics PhD and data scientist
 
 <div id="webaddress">
 <a href="mailto:cchui@mie.utoronto.ca">cchui@mie.utoronto.ca</a>
@@ -17,7 +16,7 @@ Bioinformatics PhD and data scientist
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a postdoctoral fellow at the [University of Toronto](http://www.utoronto.ca/) and at [RBC](http://www.rbc.ca).
 
 ## Employment
 
