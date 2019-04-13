@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: Curriculum Vitae
+sidebar_link: true
 ---
-# Carmen S. Chui
 
 <div id="webaddress">
 <a href="mailto:cchui@mie.utoronto.ca">cchui@mie.utoronto.ca</a>
