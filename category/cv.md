@@ -16,12 +16,12 @@ sidebar_link: true
 
 ## Currently
 
-I'm a postdoctoral fellow at the [University of Toronto](http://www.utoronto.ca/) and at [RBC](http://www.rbc.ca).
+I'm a postdoctoral fellow at the [University of Toronto](http://www.utoronto.ca/) and at [RBC](http://www.rbc.com).
 
 ## Employment
 
 `04/2019-` 
-__University of Toronto__ Postdoctoral fellow working with [RBC's](http://www.rbc.ca) Data & Analytics team on financial ontologies.
+__University of Toronto__ Postdoctoral fellow working with [RBC's](http://www.rbc.com) Data & Analytics team on financial ontologies.
 
 `09/2011-03/2019` __University of Toronto__  Graduate Research Assistant at the [Semantic Technologies Lab](http://stl.mie.utoronto.ca) in the University of Toronto.
 
