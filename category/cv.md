@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: curriculum vitae
 sidebar_link: true
 ---
 
