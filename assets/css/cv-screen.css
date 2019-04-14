@@ -115,12 +115,12 @@ div h1,h2,h3,h4 {
 }
 
 div h1 {
-	color: #fd9544;
+	color: #000000;
 	text-align: left;
-	font-size: 3em;
+	font-size: 1em;
 	line-height: 1em;
 	position: relative;
-	margin-top: 2em;
+	margin-top: 0.5em;
 	left: 25%;
 	/* padding: .1rem 1rem; */
   text-shadow: 1px 1px #fff,
