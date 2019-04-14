@@ -29,8 +29,9 @@ I'm a postdoctoral fellow at the [University of Toronto](http://www.utoronto.ca/
 | test | test | test                  |
 | test | test | test                  |
 
-`04/2019-` __University of Toronto__  
-Postdoctoral fellow working with [RBC's](http://www.rbc.com) Data & Analytics team on financial ontologies.
+`04/2019-`
+* __University of Toronto__  
+* Postdoctoral fellow working with [RBC's](http://www.rbc.com) Data & Analytics team on financial ontologies.
 
 `09/2011-03/2019` __University of Toronto__  
 Graduate Research Assistant at the [Semantic Technologies Lab](http://stl.mie.utoronto.ca) in the University of Toronto.
