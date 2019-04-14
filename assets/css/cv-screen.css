@@ -67,8 +67,8 @@ div body {
 
 div p {
 	position: relative;
-	left: 25%;
-	margin-bottom: 0.7em;
+	/*left: 25%;*/
+	margin-bottom: 0em;
 	margin-right: 0;
 	width: 90%;
 }
