@@ -32,6 +32,11 @@ footer, header, hgroup, menu, nav, section {
 div table{
 	left: 25%;
 }
+
+div td, th {
+    border: 0px solid grey;
+}
+
 div body {
 	line-height: 1;
 }
