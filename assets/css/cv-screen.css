@@ -57,7 +57,7 @@ table {
 
 div body {
 	font: normal normal 400;
-	font-size: 80%;
+	font-size: 90%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
@@ -185,7 +185,7 @@ div em {
 	font-style: italic;
 }
 
-strong {
+div strong {
 	font-weight: bold;
 }
 
