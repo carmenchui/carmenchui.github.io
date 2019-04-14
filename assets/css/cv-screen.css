@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 div table{
+	position: absolute;
 	left: 25%;
 }
 
