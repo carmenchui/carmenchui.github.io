@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 div table{
-	position: absolute;
+	position: relative;
 	left: 25%;
 }
 
@@ -99,9 +99,10 @@ div ul {
 	width: 90%;
 	margin-bottom: 0em;
 	margin-top: 0em;
-	columns: 2;
-	-webkit-columns: 2;
-	-moz-columns: 2;
+	columns: 1;
+	-webkit-columns: 1;
+	-moz-columns: 1;
+	  list-style-type: square;
 }
 
 
