@@ -79,7 +79,7 @@ div code {
 }
 
 div p code {
-	position: absolute;
+	position: relative;
 	/*left: -10%;*/
 }
 
