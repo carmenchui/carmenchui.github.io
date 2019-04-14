@@ -22,7 +22,7 @@ time, mark, audio, video*/
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 90%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -57,7 +57,7 @@ div table {
 
 div body {
 	font: normal normal 400;
-	font-size: 100%;
+	font-size: 90%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
@@ -75,14 +75,14 @@ div p {
 
 div code {
 	font: normal normal;
-	font-size: 100%;
+	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
 }
 
 div p code {
 	position: absolute;
-	left: -10%;
+	/*left: -10%;*/
 }
 
 
@@ -117,7 +117,7 @@ div h1,h2,h3,h4 {
 div h1 {
 	color: #000000;
 	text-align: left;
-	font-size: 1em;
+	font-size: 2em;
 	line-height: 1em;
 	position: relative;
 	margin-top: 0.5em;
