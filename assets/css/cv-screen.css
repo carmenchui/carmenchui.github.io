@@ -27,7 +27,7 @@ time, mark, audio, video*/
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
+div article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -37,15 +37,15 @@ div body {
 div ol, ul {
 	list-style: none;
 }
-blockquote, q {
+div blockquote, q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
+div blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
+div table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
@@ -57,7 +57,7 @@ table {
 
 div body {
 	font: normal normal 400;
-	font-size: 90%;
+	font-size: 100%;
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
@@ -75,7 +75,7 @@ div p {
 
 div code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
 }
@@ -173,7 +173,7 @@ div a:hover {
   margin-left: 25%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 100%;
 }
 
 #webaddress a {
