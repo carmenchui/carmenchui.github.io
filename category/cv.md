@@ -43,7 +43,7 @@ CANADA
 
 ## Publications
 
-Please see my [Publications](http://carmenchui.github.io/publications/) page.
+*Please see my [Publications](http://carmenchui.github.io/publications/) page.*
 
 ## Full CV
 Available upon request.
