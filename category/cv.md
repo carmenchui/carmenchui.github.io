@@ -49,9 +49,8 @@ __University of Toronto__ Bachelor of Applied Science (B.A.Sc.) __with honours__
 
 * Engineering Education
 * Ontology Engineering
-* Knowledge Representation & Reasoning
-* Knowledge representation & modelling
-* Automated reasoning
+* Knowledge Representation & Modelling
+* Automated Reasoning
 
 ## Full CV
 
