@@ -42,6 +42,7 @@ CANADA
 **Graduate Research Assistant**, *Department of Mechanical & Industrial Engineering, University of Toronto*, Toronto, ON, Canada.
 
 ## Publications
+
 Please see my [Publications](http://carmenchui.github.io/publications/) page.
 
 ## Full CV
