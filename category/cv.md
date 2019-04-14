@@ -14,7 +14,7 @@ University of Toronto<br/>
 Toronto, Ontario M5S 3G8<br/>
 CANADA
 
-<a href="cchui@mie.utoronto.ca">cchui@mie.utoronto.ca</a>
+<a href="mailto:cchui@mie.utoronto.ca">cchui@mie.utoronto.ca</a>
 
 <div id="webaddress">
   <a href="http://stl.mie.utoronto.ca/cchui/"><i class="fas fa-home"></i> http://stl.mie.utoronto.ca/cchui/</a> - 
