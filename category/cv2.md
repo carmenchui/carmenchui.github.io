@@ -41,9 +41,18 @@ CANADA
 `09/2011-03/2019`
 **Graduate Research Assistant**, *Department of Mechanical & Industrial Engineering, University of Toronto*, Toronto, ON, Canada.
 
+`05/2010-08/2010`
+**Database Analyst**, *Mercer (Canada) Ltd.*, Toronto, ON, Canada.
+
+`05/2009-08/2009`
+**Web Application Support Specialist, Database Analyst**, *Mercer (Canada) Ltd.*, Toronto, ON, Canada.
+
+`09/2008-03/2008`
+**Web Application Support Specialist** *Mercer (Canada) Ltd.*, Toronto, ON, Canada.
+
 ## Publications
 
 *Please see my [Publications](http://carmenchui.github.io/publications/) page.*
 
 ## Full CV
-Available upon request.
+PDF available upon request.
