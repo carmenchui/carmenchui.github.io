@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: cvpage
 permalink: /cv/
 title: curriculum vitae
 sidebar_link: true
