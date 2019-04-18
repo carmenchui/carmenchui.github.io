@@ -1,5 +1,4 @@
 ---
-layout: default
 permalink: /cv2/
 title: curriculum vitae
 sidebar_link: false
