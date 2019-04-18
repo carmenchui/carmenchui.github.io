@@ -1,4 +1,5 @@
 ---
+layout: category
 permalink: /cv2/
 title: curriculum vitae
 sidebar_link: false
