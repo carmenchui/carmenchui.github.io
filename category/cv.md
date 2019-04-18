@@ -2,7 +2,7 @@
 layout: category
 permalink: /cv/
 title: curriculum vitae
-sidebar_link: true
+sidebar_link: false
 
 ---
 # Carmen S. Chui
