@@ -5,7 +5,7 @@ title: curriculum vitae
 sidebar_link: false
 
 ---
-# Carmen S. Chui
+# Carmen S. Chui, Ph.D.
 Postdoctoral Fellow, University of Toronto
 
 Department of Mechanical & Industrial Engineering<br/>
@@ -24,8 +24,8 @@ CANADA
 
 ## Education
 
-`09/2013-03/2019`
-**Ph.D., Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.  Degree to be conferred in June 2019.
+`09/2013-06/2019`
+**Ph.D., Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
 
 `09/2011-09/2013`
 **M.A.Sc., Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.

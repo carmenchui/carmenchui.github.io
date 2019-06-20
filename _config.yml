@@ -5,8 +5,8 @@ remote_theme: fongandrew/hydeout
 
 # Setup
 locale                   : "en-US" 
-title:            Carmen Chui
-tagline:          'Carmen Chui'
+title:            Carmen Chui, Ph.D.
+tagline:          'Carmen Chui, Ph.D.'
 description:      'postdoctoral fellow'
 url:              https://carmenchui.github.io
 baseurl:          ''
@@ -17,7 +17,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name             : "Carmen S. Chui"
+  name             : "Carmen S. Chui, Ph.D."
   avatar           : "stl.jpg"
   bio              : "Postdoctoral Fellow at the University of Toronto"
   location         : "Toronto, ON"
