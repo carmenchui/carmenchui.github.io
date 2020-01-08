@@ -31,6 +31,11 @@ My M.A.Sc. research involved the analysis of the [Descriptive Ontology for Lingu
 > * [Defence Presentation](/files/cchui_masc_defence.pdf)
 > * Committee: Mark S. Fox, Michael Gruninger, L.H. Shu
 
+My B.A.Sc. research examined the Frame Problem and how the Process Specification Language (PSL) ontology can be used to prove the Inertia Principle.  This undergraduate thesis project was completed for the MIE498 course at the University of Toronto.
+
+> Carmen Chui: _Reasoning About Changes_, B.A.Sc. Thesis, 2011.
+> * [B.A.Sc. Thesis](/files/cchui_basc_thesis.pdf)
+
 <!---
 ## Previous Work
 
