@@ -1,12 +1,14 @@
 ---
 layout: category
 permalink: /cv/
-title: curriculum vitae
+title: 
 sidebar_link: false
 
 ---
 
-<a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoronto[dot]ca</a>
+## CV of Carmen S. Chui
+
+Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoronto[dot]ca</a>
 
 <div id="webaddress">
   <a href="http://stl.mie.utoronto.ca/cchui/"><i class="fas fa-home"></i> http://stl.mie.utoronto.ca/cchui/</a> - 
@@ -14,7 +16,7 @@ sidebar_link: false
   <a href="http://orcid.org/0000-0001-9493-5912"><i class="ai ai-orcid"></i> 0000-0001-9493-5912</a>
 </div>
 
-## Education
+### Education
 
 `09/2013-06/2019`
 **Ph.D., Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
@@ -25,7 +27,7 @@ sidebar_link: false
 `09/2007-06/2011`
 **B.A.Sc. (with honours), Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
 
-## Experience
+### Experience
 
 `03/2019-present`
 **Postdoctoral Fellow**, *Department of Mechanical & Industrial Engineering, University of Toronto*, Toronto, ON, Canada.
@@ -42,14 +44,14 @@ sidebar_link: false
 `09/2008-03/2008`
 **Web Application Support Specialist** *Mercer (Canada) Ltd.*, Toronto, ON, Canada.
 
-## Publications
+### Publications
 
 *Please see my [Publications](http://carmenchui.github.io/publications/) page.*
 
-## Full CV
+### Full CV
 PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
 
-## Mailing Address
+### Mailing Address
 Carmen Chui, Ph.D.<br/>
 Department of Mechanical & Industrial Engineering<br/>
 5 King’s College Road<br/>
