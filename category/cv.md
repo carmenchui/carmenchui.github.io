@@ -19,18 +19,18 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 ### Education
 
 `09/2013-06/2019`
-**Ph.D., Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
+**Ph.D. in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
 
 `09/2011-09/2013`
-**M.A.Sc., Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
+**M.A.Sc. in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
 
 `09/2007-06/2011`
-**B.A.Sc. (with honours), Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
+**B.A.Sc. (with honours) in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
 
 ### Experience
 
 `03/2019-present`
-**Postdoctoral Fellow**, *Department of Mechanical & Industrial Engineering, University of Toronto*, Toronto, ON, Canada.
+**Postdoctoral Fellow**, *Department of Mechanical & Industrial Engineering, University of Toronto*, Toronto, ON, Canada.  Joint work done with the Royal Bank of Canada (RBC).
 
 `09/2011-03/2019`
 **Graduate Research Assistant**, *Department of Mechanical & Industrial Engineering, University of Toronto*, Toronto, ON, Canada.
