@@ -17,15 +17,20 @@ My Ph.D. research involved the development of a molecular structure ontology for
 
 ## Research Theses
 
-Carmen Chui: _A Molecular Structure Ontology for Medicinal Chemistry_, Ph.D. Thesis, 2019. [http://hdl.handle.net/1807/97001](http://hdl.handle.net/1807/97001)
+Carmen Chui: _A Molecular Structure Ontology for Medicinal Chemistry_, Ph.D. Thesis, 2019.
+* [http://hdl.handle.net/1807/97001](Ph.D. Thesis)
+* [/files/cchui_phd_senate_defence.pdf](Senate Defence Presentation)
+* [/files/cchui_phd_dept_defence.pdf](Department Defence Presentation)
+
+
 <br/><br/>
 
 Carmen Chui: _Axiomatized Relationships between Ontologies_, M.A.Sc. Thesis, 2013.[http://hdl.handle.net/1807/42747](http://hdl.handle.net/1807/42747)
 <br/><br/>
-<!--
+<!---
 ## Previous Work
 
 Carmen Chui, Michael Grüninger: _A Molecular Structure Ontology for Medicinal Chemistry_. FOIS 2016: 285-298 [https://doi.org/10.3233/978-1-61499-660-6-285](https://doi.org/10.3233/978-1-61499-660-6-285)
--->
+--->
 
 Feel free to take a look at my [publications list](/publications/) to know more about my research.
