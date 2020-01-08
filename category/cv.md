@@ -1,12 +1,12 @@
 ---
 layout: category
 permalink: /cv/
-title: 
+title: curriculum vitae
 sidebar_link: false
 
 ---
 
-## CV of Carmen S. Chui
+## Carmen S. Chui
 
 Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoronto[dot]ca</a>
 
