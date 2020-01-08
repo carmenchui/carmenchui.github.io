@@ -21,13 +21,15 @@ My Ph.D. research involved the development of a molecular structure ontology for
 > * [Ph.D. Thesis](http://hdl.handle.net/1807/97001)
 > * [Senate Defence Presentation](/files/cchui_phd_senate_defence.pdf)
 > * [Department Defence Presentation](/files/cchui_phd_dept_defence.pdf)
+> * Committee: Gary Bader, Mark S. Fox, Michael Gruninger, L.H. Shu
+> * Appraiser: Michel Dumontier, Maastricht University
 
 My M.A.Sc. research involved the analysis of the [Descriptive Ontology for Linguistic and Cognitive Engineering (DOLCE)](http://www.loa.istc.cnr.it/dolce/overview.html) and its relationships to ontologies found in the [COmmon Logic Ontology Repository (COLORE)](http://colore.oor.net/).
 
 > Carmen Chui: _Axiomatized Relationships between Ontologies_, M.A.Sc. Thesis, 2013.
 > * [M.A.Sc. Thesis](http://hdl.handle.net/1807/42747)
 > * [Defence Presentation](/files/cchui_masc_defence.pdf)
-
+> * Committee: Mark S. Fox, Michael Gruninger, L.H. Shu
 
 <!---
 ## Previous Work
