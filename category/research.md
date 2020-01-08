@@ -13,9 +13,9 @@ My research interests fall in the following areas:
 * Engineering education
 
 
-My Ph.D. research involved the development of a molecular structure ontology for medicinal chemistry, with a basis in graph theory, as well as new techniques for (first-order) model construction.  My M.A.Sc. research involved the analysis of the [Descriptive Ontology for Linguistic and Cognitive Engineering (DOLCE)](http://www.loa.istc.cnr.it/dolce/overview.html) and its relationships to ontologies found in the [COmmon Logic Ontology Repository (COLORE)](http://colore.oor.net/).
-
 ## Research Theses
+
+My Ph.D. research involved the development of a molecular structure ontology for medicinal chemistry, with a basis in graph theory, as well as new techniques for (first-order) model construction.  My M.A.Sc. research involved the analysis of the [Descriptive Ontology for Linguistic and Cognitive Engineering (DOLCE)](http://www.loa.istc.cnr.it/dolce/overview.html) and its relationships to ontologies found in the [COmmon Logic Ontology Repository (COLORE)](http://colore.oor.net/).
 
 Carmen Chui: _A Molecular Structure Ontology for Medicinal Chemistry_, Ph.D. Thesis, 2019.
 * [Ph.D. Thesis](http://hdl.handle.net/1807/97001)
