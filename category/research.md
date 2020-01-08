@@ -13,13 +13,19 @@ My research interests fall in the following areas:
 * Engineering education
 
 
-My Ph.D. research involved the development of a molecular structure ontology for medicinal chemistry, with a basis in graph theory, as well as new techniques for (first-order) model construction.
+My Ph.D. research involved the development of a molecular structure ontology for medicinal chemistry, with a basis in graph theory, as well as new techniques for (first-order) model construction.  My M.A.Sc. research involved the analysis of the [Descriptive Ontology for Linguistic and Cognitive Engineering (DOLCE)](http://www.loa.istc.cnr.it/dolce/overview.html) and its relationships to ontologies found in the [COmmon Logic Ontology Repository (COLORE)](http://colore.oor.net/).
 
-Please click the following links to learn more:
-* Carmen Chui: _A Molecular Structure Ontology for Medicinal Chemistry_. Ph.D. Thesis. [http://hdl.handle.net/1807/97001](http://hdl.handle.net/1807/97001)
-* Carmen Chui, Michael Grüninger: _A Molecular Structure Ontology for Medicinal Chemistry_. FOIS 2016: 285-298 [https://doi.org/10.3233/978-1-61499-660-6-285](https://doi.org/10.3233/978-1-61499-660-6-285)
-* Carmen Chui: _Axiomatized Relationships between Ontologies_. M.A.Sc. Thesis. [http://hdl.handle.net/1807/42747](http://hdl.handle.net/1807/42747)
+## Research Theses
 
+Carmen Chui: _A Molecular Structure Ontology for Medicinal Chemistry_, Ph.D. Thesis, 2019. [http://hdl.handle.net/1807/97001](http://hdl.handle.net/1807/97001)
+<br/><br/>
 
+Carmen Chui: _Axiomatized Relationships between Ontologies_, M.A.Sc. Thesis, 2013.[http://hdl.handle.net/1807/42747](http://hdl.handle.net/1807/42747)
+<br/><br/>
+<!--
+## Previous Work
 
-Feel free to take a look at my [publications](/publications/) to know more about my research.
+Carmen Chui, Michael Grüninger: _A Molecular Structure Ontology for Medicinal Chemistry_. FOIS 2016: 285-298 [https://doi.org/10.3233/978-1-61499-660-6-285](https://doi.org/10.3233/978-1-61499-660-6-285)
+-->
+
+Feel free to take a look at my [publications list](/publications/) to know more about my research.
