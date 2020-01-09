@@ -19,9 +19,9 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 ### Education
 
 > `2013-2019`
-**Ph.D. in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
+**Ph.D. in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.<br/>
 > `2011-2013`
-**M.A.Sc. in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
+**M.A.Sc. in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.<br/>
 > `2007-2011`
 **B.A.Sc. (with honours) in Industrial Engineering**, *University of Toronto*, Toronto, ON, Canada.
 
