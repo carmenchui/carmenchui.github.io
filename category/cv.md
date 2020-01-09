@@ -47,12 +47,12 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 *Please see my [Publications](http://carmenchui.github.io/publications/) page.*
 
 ### Full CV
-PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
+> PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
 
 ### Mailing Address
-Carmen Chui, Ph.D.<br/>
-Department of Mechanical & Industrial Engineering<br/>
-5 King’s College Road<br/>
-University of Toronto<br/>
-Toronto, Ontario M5S 3G8<br/>
-CANADA
+> Carmen Chui, Ph.D.<br/>
+> Department of Mechanical & Industrial Engineering<br/>
+> 5 King’s College Road<br/>
+> University of Toronto<br/>
+> Toronto, Ontario M5S 3G8<br/>
+> CANADA
