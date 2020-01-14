@@ -24,6 +24,8 @@ My advisor is Dr. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html)
 
 Feel free to look around!  If you have any questions, please do not hesitate to [contact](mailto:cchui[at]mie[DOT]utoronto[DOT]ca) me.
 -->
+
+## research
 My research interests fall in the following areas:
 * Ontology design, mapping, and integration
 * Knowledge representation & modelling
