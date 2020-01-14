@@ -1,10 +1,10 @@
----
+<!-----
 layout: category
 permalink: /research/
 title: research
 author_profile: true
 ---
-
+-->
 My research interests fall in the following areas:
 * Ontology design, mapping, and integration
 * Knowledge representation & modelling
