@@ -6,6 +6,13 @@ sidebar_link: false
 
 ---
 
+
+<body style="width:100%; height:100%; margin:0;">
+<iframe src="https://docs.google.com/gview?url=http://carmenchui.github.io/files/cv_web.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+</body>
+
+
+<!--
 ## Carmen S. Chui
 
 Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoronto[dot]ca</a>
@@ -15,11 +22,6 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
   <a href="https://github.com/carmenchui"><i class="fab fa-github"></i> carmenchui</a> - 
   <a href="http://orcid.org/0000-0001-9493-5912"><i class="ai ai-orcid"></i> 0000-0001-9493-5912</a>
 </div>
-
-<body style="width:100%; height:100%; margin:0;">
-<iframe src="https://docs.google.com/gview?url=http://carmenchui.github.io/files/cv_web.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-</body>
-
 
 ### Education
 
@@ -53,3 +55,5 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 > University of Toronto<br/>
 > Toronto, Ontario M5S 3G8<br/>
 > CANADA
+
+-->
