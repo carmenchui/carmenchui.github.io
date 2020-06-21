@@ -45,6 +45,12 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 > `09/2008-03/2008`
 **Web Application Support Specialist** *Mercer (Canada) Ltd.*, Toronto, ON, Canada.
 
+### Professional Development
+
+> `June 2020`
+**Structuring Machine Learning Projects**, *deeplearning.ai*, [Coursera Credential ID#VKTP2PQ7EPXK](https://www.coursera.org/account/accomplishments/verify/VKTP2PQ7EPXK).<br/>
+
+
 ### Full CV
 > PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
 
