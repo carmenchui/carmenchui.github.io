@@ -47,9 +47,18 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 
 ### Professional Development
 
-> `June 2020`
+> `06/2020`
 **Structuring Machine Learning Projects**, *deeplearning.ai*, [Coursera Credential ID#VKTP2PQ7EPXK](https://www.coursera.org/account/accomplishments/verify/VKTP2PQ7EPXK).<br/>
-
+> `06/2020`
+**Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**, *deeplearning.ai*, [Coursera Credential ID#FYXU2R2HJMN5](https://www.coursera.org/account/accomplishments/verify/FYXU2R2HJMN5).<br/>
+> `06/2020`
+**Neural Networks and Deep Learning**, *Google Cloud*, [Coursera Credential ID#5ECT8ZCZSW5B](https://www.coursera.org/account/accomplishments/verify/5ECT8ZCZSW5B).<br/>
+> `06/2020`
+**Getting Started with AWS Machine Learning**, *Amazon Web Services*, [Coursera Credential ID#TDQZYX5FMX5M](https://www.coursera.org/account/accomplishments/verify/TDQZYX5FMX5M).<br/>
+> `06/2018`
+**[Prospective Professors in Training (PPIT) Program Certificate](http://gradstudies.engineering.utoronto.ca/research-degrees/prospective-professors-in-training/)**, *University of Toronto*.<br/>
+> `09/2012`
+**[Teaching Fundamentals (TF) Certificate](http://tatp.utoronto.ca/certificate-program/tf-certificate/)**, *University of Toronto*.<br/>
 
 ### Full CV
 > PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
