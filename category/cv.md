@@ -53,10 +53,8 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 <ul><li>Introduction to Data Science in Python</li></ul><br/>
 -->
 > `06/2020`
-**Deep Learning (Specialization)**, *deeplearning.ai*, [Coursera Credential ID#KCCBFVLRCF4Z](https://www.coursera.org/account/accomplishments/verify/KCCBFVLRCF4Z).
-<ul>
-<li>Introduction to Data Science in Python</li>
-</ul><br/>
+**Deep Learning (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#6EJ4ZS4FMZVC](https://www.coursera.org/account/accomplishments/specialization/6EJ4ZS4FMZVC).
+<!--
 > `06/2020`
 **Sequence Models**, *deeplearning.ai*, [Coursera Credential ID#KCCBFVLRCF4Z](https://www.coursera.org/account/accomplishments/verify/KCCBFVLRCF4Z).<br/>
 > `06/2020`
@@ -65,7 +63,7 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **Structuring Machine Learning Projects**, *deeplearning.ai*, [Coursera Credential ID#VKTP2PQ7EPXK](https://www.coursera.org/account/accomplishments/verify/VKTP2PQ7EPXK).<br/>
 > `06/2020`
 **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**, *deeplearning.ai*, [Coursera Credential ID#FYXU2R2HJMN5](https://www.coursera.org/account/accomplishments/verify/FYXU2R2HJMN5).<br/>
-> `06/2020`
+> `06/2020` -->
 **Neural Networks and Deep Learning**, *Google Cloud*, [Coursera Credential ID#5ECT8ZCZSW5B](https://www.coursera.org/account/accomplishments/verify/5ECT8ZCZSW5B).<br/>
 > `06/2020`
 **Getting Started with AWS Machine Learning**, *Amazon Web Services*, [Coursera Credential ID#TDQZYX5FMX5M](https://www.coursera.org/account/accomplishments/verify/TDQZYX5FMX5M).<br/>
