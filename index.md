@@ -9,7 +9,7 @@ Hi there!
 
 I am currently a postdoctoral research fellow at the University of Toronto working with the Data & Analytics team at Royal Bank Canada (RBC).
 
-My research involves the analysis of ontologies in financial technology and e-science.  I have worked on projects to develop and analyze ontologies in science (manufacturing, geometry, chemistry).
+My research involves the analysis of ontologies in financial technology and e-science.  I have worked on projects to develop and analyze ontologies in science (manufacturing, geometry, chemistry) and anthropology (kinship).
 
 My postdoctoral advisor is Dr. [Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html){:target="_blank"}, who is the director of the [Semantic Technologies Lab (STL)](http://stl.mie.utoronto.ca/){:target="_blank"}. I am also part of the [EDM Council](https://edmcouncil.org/){:target="_blank"}, [IAOA](http://www.iaoa.org/){:target="_blank"}, [IISE](http://www.iise.org/Home/){:target="_blank"}, and [OSPE](https://www.ospe.on.ca/){:target="_blank"} associations.
 
