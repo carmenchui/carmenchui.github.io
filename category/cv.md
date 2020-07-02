@@ -52,12 +52,6 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **Applied Data Science with Python *Specialization)**, *University of Michigan* on Coursera, [Coursera Specialization ID#KCCBFVLRCF4Z](https://www.coursera.org/account/accomplishments/verify/KCCBFVLRCF4Z).
 <ul><li>Introduction to Data Science in Python</li></ul><br/>
 -->
-
-> `07/2020`
-**TensorFlow in Practice (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#3WAE76Y9WYJ4](https://www.coursera.org/account/accomplishments/specialization/3WAE76Y9WYJ4).
-> `06/2020`
-**Deep Learning (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#6EJ4ZS4FMZVC](https://www.coursera.org/account/accomplishments/specialization/6EJ4ZS4FMZVC).
-
 <!--
 > `06/2020`
 **Sequence Models**, *deeplearning.ai*, [Coursera Credential ID#KCCBFVLRCF4Z](https://www.coursera.org/account/accomplishments/verify/KCCBFVLRCF4Z).<br/>
@@ -69,6 +63,10 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**, *deeplearning.ai*, [Coursera Credential ID#FYXU2R2HJMN5](https://www.coursera.org/account/accomplishments/verify/FYXU2R2HJMN5).<br/>
 -->
 
+> `07/2020`
+**TensorFlow in Practice (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#3WAE76Y9WYJ4](https://www.coursera.org/account/accomplishments/specialization/3WAE76Y9WYJ4).
+> `06/2020`
+**Deep Learning (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#6EJ4ZS4FMZVC](https://www.coursera.org/account/accomplishments/specialization/6EJ4ZS4FMZVC).
 > `06/2020`
 **Neural Networks and Deep Learning**, *Google Cloud*, [Coursera Credential ID#5ECT8ZCZSW5B](https://www.coursera.org/account/accomplishments/verify/5ECT8ZCZSW5B).<br/>
 > `06/2020`
