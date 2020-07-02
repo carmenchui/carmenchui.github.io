@@ -54,7 +54,7 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 -->
 
 > `07/2020`
-**TensorFlow in Practice (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#6EJ4ZS4FMZVC](https://www.coursera.org/account/accomplishments/specialization/3WAE76Y9WYJ4).
+**TensorFlow in Practice (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#3WAE76Y9WYJ4](https://www.coursera.org/account/accomplishments/specialization/3WAE76Y9WYJ4).
 > `06/2020`
 **Deep Learning (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#6EJ4ZS4FMZVC](https://www.coursera.org/account/accomplishments/specialization/6EJ4ZS4FMZVC).
 
@@ -68,6 +68,7 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 > `06/2020`
 **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**, *deeplearning.ai*, [Coursera Credential ID#FYXU2R2HJMN5](https://www.coursera.org/account/accomplishments/verify/FYXU2R2HJMN5).<br/>
 -->
+
 > `06/2020`
 **Neural Networks and Deep Learning**, *Google Cloud*, [Coursera Credential ID#5ECT8ZCZSW5B](https://www.coursera.org/account/accomplishments/verify/5ECT8ZCZSW5B).<br/>
 > `06/2020`
