@@ -64,6 +64,8 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 -->
 
 > `07/2020`
+**Machine Learning (Specialization)**, *University of Washington* on Coursera, [Coursera Specialization ID#NRGZ96LVEP7B](https://www.coursera.org/account/accomplishments/specialization/NRGZ96LVEP7B).<br/>
+> `07/2020`
 **TensorFlow in Practice (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#3WAE76Y9WYJ4](https://www.coursera.org/account/accomplishments/specialization/3WAE76Y9WYJ4).<br/>
 > `06/2020`
 **Deep Learning (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#6EJ4ZS4FMZVC](https://www.coursera.org/account/accomplishments/specialization/6EJ4ZS4FMZVC).<br/>
