@@ -61,14 +61,34 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **Structuring Machine Learning Projects**, *deeplearning.ai*, [Coursera Credential ID#VKTP2PQ7EPXK](https://www.coursera.org/account/accomplishments/verify/VKTP2PQ7EPXK).<br/>
 > `06/2020`
 **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**, *deeplearning.ai*, [Coursera Credential ID#FYXU2R2HJMN5](https://www.coursera.org/account/accomplishments/verify/FYXU2R2HJMN5).<br/>
+> `07/2020`
+**Motion Planning for Self-Driving Cars**, *University of Toronto*, [Coursera Credential ID#AJDTY8YTTFXZ](https://www.coursera.org/account/accomplishments/verify/AJDTY8YTTFXZ).<br/>
+> `07/2020`
+**Visual Perception for Self-Driving Cars**, *University of Toronto*, [Coursera Credential ID#DLT2ZAUWM2LU](https://www.coursera.org/account/accomplishments/verify/DLT2ZAUWM2LU).<br/>
+> `07/2020`
+**State Estimation and Localization for Self-Driving Cars**, *University of Toronto*, [Coursera Credential ID#B58ZCHFLEV5A](https://www.coursera.org/account/accomplishments/verify/B58ZCHFLEV5A).<br/>
+> `07/2020`
+**Introduction to Self-Driving Cars**, *University of Toronto*, [Coursera Credential ID#GA2KZG9AA33Z](https://www.coursera.org/account/accomplishments/verify/GA2KZG9AA33Z).<br/>
 -->
 
+#### MOOC Specializations
+
+> `07/2020`
+**Self-Driving Cars (Specialization)**, *University of Toronto* on Coursera, [Coursera Specialization ID#XWZB9H8YRPM7](https://www.coursera.org/account/accomplishments/specialization/XWZB9H8YRPM7).<br/>
 > `07/2020`
 **Machine Learning (Specialization)**, *University of Washington* on Coursera, [Coursera Specialization ID#NRGZ96LVEP7B](https://www.coursera.org/account/accomplishments/specialization/NRGZ96LVEP7B).<br/>
 > `07/2020`
 **TensorFlow in Practice (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#3WAE76Y9WYJ4](https://www.coursera.org/account/accomplishments/specialization/3WAE76Y9WYJ4).<br/>
 > `06/2020`
 **Deep Learning (Specialization)**, *deeplearning.ai* on Coursera, [Coursera Specialization ID#6EJ4ZS4FMZVC](https://www.coursera.org/account/accomplishments/specialization/6EJ4ZS4FMZVC).<br/>
+
+
+#### MOOC Certificates
+
+> `07/2020`
+**Java Programming: Solving Problems with Software**, *Duke University*, [Coursera Credential ID#GFRMR3WEU2MD](https://www.coursera.org/account/accomplishments/verify/GFRMR3WEU2MD).<br/>
+> `07/2020`
+**Programming Foundations with JavaScript, HTML and CSS**, *Duke University*, [Coursera Credential ID#8YSXQYEKLA2B](https://www.coursera.org/account/accomplishments/verify/8YSXQYEKLA2B).<br/>
 > `06/2020`
 **Neural Networks and Deep Learning**, *Google Cloud*, [Coursera Credential ID#5ECT8ZCZSW5B](https://www.coursera.org/account/accomplishments/verify/5ECT8ZCZSW5B).<br/>
 > `06/2020`
