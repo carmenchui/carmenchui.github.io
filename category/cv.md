@@ -93,6 +93,8 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **Neural Networks and Deep Learning**, *Google Cloud*, [Coursera Credential ID#5ECT8ZCZSW5B](https://www.coursera.org/account/accomplishments/verify/5ECT8ZCZSW5B).<br/>
 > `06/2020`
 **Getting Started with AWS Machine Learning**, *Amazon Web Services*, [Coursera Credential ID#TDQZYX5FMX5M](https://www.coursera.org/account/accomplishments/verify/TDQZYX5FMX5M).<br/>
+
+#### Other
 > `06/2018`
 **[Prospective Professors in Training (PPIT) Program Certificate](http://gradstudies.engineering.utoronto.ca/research-degrees/prospective-professors-in-training/)**, *University of Toronto*.<br/>
 > `09/2012`
