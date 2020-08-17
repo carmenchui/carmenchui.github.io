@@ -85,7 +85,10 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 
 #### MOOC Certificates
 
-
+> `07/2020`
+**Java Programming: Arrays, Lists, and Structured Data**, *Duke University*, [Coursera Credential ID#GVK79DTMZT4L](https://www.coursera.org/account/accomplishments/verify/GVK79DTMZT4L).<br/>
+> `07/2020`
+**Java Programming: Principles of Software Design**, *Duke University*, [Coursera Credential ID#H6NGXXCDWBKU](https://www.coursera.org/account/accomplishments/verify/H6NGXXCDWBKU).<br/>
 > `07/2020`
 **Java Programming: Arrays, Lists, and Structured Data**, *Duke University*, [Coursera Credential ID#GVK79DTMZT4L](https://www.coursera.org/account/accomplishments/verify/GVK79DTMZT4L).<br/>
 > `07/2020`
