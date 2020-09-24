@@ -45,14 +45,12 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 > `09/2008-03/2008`
 **Web Application Support Specialist** *Mercer (Canada) Ltd.*, Toronto, ON, Canada.
 
+<!--
 ### Professional Development
 
-<!--
 > `06/2020`
 **Applied Data Science with Python *Specialization)**, *University of Michigan* on Coursera, [Coursera Specialization ID#KCCBFVLRCF4Z](https://www.coursera.org/account/accomplishments/verify/KCCBFVLRCF4Z).
 <ul><li>Introduction to Data Science in Python</li></ul><br/>
--->
-<!--
 > `06/2020`
 **Sequence Models**, *deeplearning.ai*, [Coursera Credential ID#KCCBFVLRCF4Z](https://www.coursera.org/account/accomplishments/verify/KCCBFVLRCF4Z).<br/>
 > `06/2020`
@@ -100,11 +98,12 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 > `06/2020`
 **Getting Started with AWS Machine Learning**, *Amazon Web Services*, [Coursera Credential ID#TDQZYX5FMX5M](https://www.coursera.org/account/accomplishments/verify/TDQZYX5FMX5M).<br/>
 
-#### Other-->
+#### Other
 > `06/2018`
 **[Prospective Professors in Training (PPIT) Program Certificate](http://gradstudies.engineering.utoronto.ca/research-degrees/prospective-professors-in-training/)**, *University of Toronto*.<br/>
 > `09/2012`
 **[Teaching Fundamentals (TF) Certificate](http://tatp.utoronto.ca/certificate-program/tf-certificate/)**, *University of Toronto*.<br/>
+-->
 
 ### Full CV
 > PDF available: [PDF](../files/cv_web.pdf).
