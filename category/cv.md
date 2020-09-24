@@ -107,9 +107,12 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **[Teaching Fundamentals (TF) Certificate](http://tatp.utoronto.ca/certificate-program/tf-certificate/)**, *University of Toronto*.<br/>
 
 ### Full CV
-> PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
+> PDF available: [PDF](files/cv_web.pdf).
+
 
 <!--
+> PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
+
 ### Mailing Address
 > Carmen Chui, Ph.D.<br/>
 > Department of Mechanical & Industrial Engineering<br/>
