@@ -69,7 +69,7 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **State Estimation and Localization for Self-Driving Cars**, *University of Toronto*, [Coursera Credential ID#B58ZCHFLEV5A](https://www.coursera.org/account/accomplishments/verify/B58ZCHFLEV5A).<br/>
 > `07/2020`
 **Introduction to Self-Driving Cars**, *University of Toronto*, [Coursera Credential ID#GA2KZG9AA33Z](https://www.coursera.org/account/accomplishments/verify/GA2KZG9AA33Z).<br/>
--->
+
 
 #### MOOC Specializations
 
@@ -100,7 +100,7 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 > `06/2020`
 **Getting Started with AWS Machine Learning**, *Amazon Web Services*, [Coursera Credential ID#TDQZYX5FMX5M](https://www.coursera.org/account/accomplishments/verify/TDQZYX5FMX5M).<br/>
 
-#### Other
+#### Other-->
 > `06/2018`
 **[Prospective Professors in Training (PPIT) Program Certificate](http://gradstudies.engineering.utoronto.ca/research-degrees/prospective-professors-in-training/)**, *University of Toronto*.<br/>
 > `09/2012`
