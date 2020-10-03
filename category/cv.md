@@ -106,11 +106,11 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 -->
 
 ### Full CV
-> PDF available: [PDF](../files/cv_web.pdf).
 
+> PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
 
 <!--
-> PDF available [upon request](mailto:cchui[at]mie[dot]utoronto[dot]ca).
+> PDF available: [PDF](../files/cv_web.pdf).
 
 ### Mailing Address
 > Carmen Chui, Ph.D.<br/>
