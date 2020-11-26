@@ -7,7 +7,7 @@ remote_theme: fongandrew/hydeout
 locale                   : "en-US" 
 title:            Carmen Chui
 tagline:          'Carmen Chui'
-description:      'postdoctoral fellow'
+description:      ''
 url:              https://carmenchui.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
