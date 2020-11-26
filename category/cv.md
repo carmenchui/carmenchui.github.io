@@ -18,7 +18,7 @@ sidebar_link: false
 Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoronto[dot]ca</a>
 
 <div id="webaddress">
-  <a href="http://stl.mie.utoronto.ca/cchui/"><i class="fas fa-home"></i> http://stl.mie.utoronto.ca/cchui/</a> - 
+  <a href="http://carmenchui.github.io"><i class="fas fa-home"></i> http://carmenchui.github.io</a> - 
   <a href="https://github.com/carmenchui"><i class="fab fa-github"></i> carmenchui</a> - 
   <a href="http://orcid.org/0000-0001-9493-5912"><i class="ai ai-orcid"></i> 0000-0001-9493-5912</a>
 </div>
