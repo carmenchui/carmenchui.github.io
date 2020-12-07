@@ -34,6 +34,8 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 
 ### Experience
 
+> `12/2020--present`
+**Senior Business Data Architect**, *Bank of Nova Scotia (Scotiabank)*, Toronto, ON, Canada.<br/>
 > `03/2019-11/2020`
 **Postdoctoral Fellow**, *Department of Mechanical & Industrial Engineering, University of Toronto*, Toronto, ON, Canada.  Joint work done with the Royal Bank of Canada (RBC).<br/>
 > `09/2011-03/2019`
