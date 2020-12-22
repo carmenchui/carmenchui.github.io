@@ -5,8 +5,8 @@ remote_theme: fongandrew/hydeout
 
 # Setup
 locale                   : "en-US" 
-title:            Carmen Chui
-tagline:          'Carmen Chui'
+title:            Carmen Chui, Ph.D.
+tagline:          'Carmen Chui, Ph.D.'
 description:      ''
 url:              https://carmenchui.github.io
 baseurl:          ''
