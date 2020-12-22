@@ -13,7 +13,7 @@ sidebar_link: false
 
 -->
 
-## Carmen S. Chui
+## Carmen S. Chui, Ph.D.
 
 Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoronto[dot]ca</a>
 
