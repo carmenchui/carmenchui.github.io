@@ -44,7 +44,7 @@ Email: <a href="mailto:cchui[at]mie[dot]utoronto[dot]ca">cchui[at]mie[dot]utoron
 **Database Analyst**, *Mercer (Canada) Ltd.*, Toronto, ON, Canada.<br/>
 > `05/2009-08/2009`
 **Web Application Support Specialist, Database Analyst**, *Mercer (Canada) Ltd.*, Toronto, ON, Canada.<br/>
-> `09/2008-03/2008`
+> `05/2008-08/2008`
 **Web Application Support Specialist** *Mercer (Canada) Ltd.*, Toronto, ON, Canada.
 
 <!--
