@@ -522,17 +522,30 @@
     
   </div>
   <div class="col-12 col-lg-8">
-    
+    <!-- modify this form HTML and place wherever you want your form -->
+<form action="https://formspree.io/f/xrgovozv" method="POST">
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+<p><button type="submit">Send</button></p>
+</form>
 
     
 
     
     
       
+      
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" netlify>
+      <form name="contact" method="POST" action="https://formspree.io/carmen.s.chui@outlook.com">
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
