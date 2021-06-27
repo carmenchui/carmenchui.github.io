@@ -1,48 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://carmenchui.rbind.io/contact/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/experience/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/experience/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publications/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/publications/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/authors/admin/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/authors/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/categories/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/publication_types/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/publication/</loc>
+  </url><url>
+    <loc>https://carmenchui.rbind.io/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://localhost:1313/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url>
-  
 </urlset>
