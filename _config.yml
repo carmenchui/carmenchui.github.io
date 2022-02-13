@@ -6,6 +6,7 @@ google_analytics: UA-108144808-1
 remote_theme: BDHU/minimalist
 repository: carmenchui/carmenchui.github.io
 color-scheme: light
+favicon: true
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
