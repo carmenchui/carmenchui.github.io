@@ -1,3 +1,0 @@
-http://carmenchui.rbind.io/*      https://carmenchui.rbind.io/:splat  301!
-https://carmenchui.netlify.com/*  https://carmenchui.rbind.io/:splat  301!
-http://carmenchui.netlify.com/*   https://carmenchui.rbind.io/:splat  301!

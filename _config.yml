@@ -1,0 +1,72 @@
+title: Carmen S. Chui, Ph.D.
+logo:
+description: Applied Ontology and Semantic Web Engineering & Knowledge Representation and Reasoning
+show_downloads: false
+google_analytics: UA-108144808-1
+remote_theme: BDHU/minimalist
+repository: carmenchui/carmenchui.github.io
+color-scheme: light
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+# email: carmen.s.chui [at] outlook [dot] com
+
+sidebar:
+  - name: carmen.s.chui@outlook.com
+    icon: fa fa-envelope
+    link: mailto:carmen.s.chui[at]outlook[dot]com
+  - name: Google Scholar
+    icon: fa-solid fa-user-graduate
+    link: https://scholar.google.com/citations?hl=en&user=R1gxO74AAAAJ&view_op=list_works&sortby=pubdate
+  - name: ORCID
+    icon: fa-brands fa-orcid
+    link: http://orcid.org/0000-0001-9493-5912
+  - name: GitHub
+    icon: fa-brands fa-github
+    link: https://github.com/carmenchui
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/carmenchui/
+#  - name: Blog
+#    icon: fa-solid fa-pen
+#    link: https://www.bodunhu.com/blog/
+#  - name: Project Repository
+#    icon: fa-solid fa-box-archive
+#    link: https://github.com/BDHU/minimalist
+
+author:
+  name             : "Carmen S. Chui, Ph.D."
+  avatar           : "stl.jpg"
+  bio              : "Postdoctoral Fellow at the University of Toronto"
+  location         : "Toronto, ON"
+  employer         :
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=R1gxO74AAAAJ&view_op=list_works&sortby=pubdate"
+  dblp    : "http://dblp.uni-trier.de/pers/hd/c/Chui:Carmen"
+  email            : "cchui[at]mie[dot]utoronto[dot]ca"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "https://github.com/carmenchui"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "https://linkedin.com/in/carmenchui"
+  orcid            : "http://orcid.org/0000-0001-9493-5912"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
