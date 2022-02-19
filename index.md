@@ -22,9 +22,11 @@ My research interests include:
 
 ## Education
 - **[University of Toronto](http://www.utoronto.ca)**, Toronto, Canada (2013-2019)
-  - Ph.D. in [Industrial Engineering](https://www.mie.utoronto.ca/programs/undergraduate/industrial-engineering/)
+  - Ph.D. in [Industrial Engineering](https://www.mie.utoronto.ca/programs/graduate/phd/)
+  - Thesis: [A Molecular Structure Ontology for Medicinal Chemistry](https://hdl.handle.net/1807/97001)
 - **[University of Toronto](http://www.utoronto.ca)**, Toronto, Canada (2011-2013)
-  - M.A.Sc. in [Industrial Engineering](https://www.mie.utoronto.ca/programs/undergraduate/industrial-engineering/)
+  - M.A.Sc. in [Industrial Engineering](https://www.mie.utoronto.ca/programs/graduate/master-of-applied-science/)
+  - Thesis: [Axiomatized Relationships between Ontologies](https://hdl.handle.net/1807/42747)
 - **[University of Toronto](http://www.utoronto.ca)**, Toronto, Canada (2007-2011)
   - B.A.Sc. (with honours) in [Industrial Engineering](https://www.mie.utoronto.ca/programs/undergraduate/industrial-engineering/)
 
