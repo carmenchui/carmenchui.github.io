@@ -4,7 +4,7 @@ title: Carmen S. Chui, Ph.D.
 ---
 
 ## About
-Hi, my name is Carmen (she/her).
+Hi, my name is Carmen (my pronouns are she/her).
 
 I hold a doctorate in Industrial Engineering from the University of Toronto and trained under [Prof. Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html) in the Semantic Technologies Lab.
 
