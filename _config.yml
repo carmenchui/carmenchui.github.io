@@ -15,7 +15,7 @@ plugins:
 # email: carmen.s.chui [at] outlook [dot] com
 
 sidebar:
-  - name: carmen.s.chui@outlook.com
+  - name: carmen.s.chui[at]outlook[dot]com
     icon: fa fa-envelope
     link: mailto:carmen.s.chui[at]outlook[dot]com
   - name: Google Scholar
@@ -45,7 +45,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=R1gxO74AAAAJ&view_op=list_works&sortby=pubdate"
   dblp    : "http://dblp.uni-trier.de/pers/hd/c/Chui:Carmen"
-  email            : "cchui[at]mie[dot]utoronto[dot]ca"
+  email            : "carmen.s.chui[at]outlook[dot]com"
   uri              :
   bitbucket        :
   codepen          :
