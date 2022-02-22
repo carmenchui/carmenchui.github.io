@@ -17,7 +17,7 @@ plugins:
 sidebar:
   - name: Email
     icon: fa fa-envelope
-    link: #contact
+    link: http://carmenchui.github.io#contact
   - name: Google Scholar
     icon: fa-solid fa-user-graduate
     link: https://scholar.google.com/citations?hl=en&user=R1gxO74AAAAJ&view_op=list_works&sortby=pubdate
