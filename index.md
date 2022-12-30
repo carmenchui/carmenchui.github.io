@@ -10,8 +10,6 @@ I hold a doctorate in Industrial Engineering from the University of Toronto and 
 
 I specialize in the design and analysis of ontologies in first-order logic, particularly automated reasoning and verification, in addition to knowledge representation and modelling in multidisciplinary areas.
 
-Currently, I am a Senior Business Data Architect in the Data Architecture & Analysis team at [The Bank of Nova Scotia (Scotiabank)](http://www.scotiabank.com).
-
 My research interests include:
 - Ontology design, mapping, and integration
 - Knowledge representation and modelling
