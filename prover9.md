@@ -50,6 +50,7 @@ cd bin
 ## Prover9
 1. Keep Terminal open -- you will need to use Terminal to use the command-line version of Prover9.
 Commands are of the following format.
+
 ```shell
 ./prover9 [-h] [-x] [-p] [-t <n>] [-f <files>]
 
@@ -84,10 +85,9 @@ formulas(goals).
 
 end_of_list.
 ```
+
 ![](files/prover9/2019-10-22_22-05-30.jpg)
-
 (In this example, we have no goal.)
-
 4. Save the file and name it in the `*.in` format.
 5. To run Prover9, you will need to issue the following command:
 ```shell
