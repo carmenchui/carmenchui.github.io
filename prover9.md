@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prover9 CLI
+permalink: /prover9
 ---
 
 [Home](./)
