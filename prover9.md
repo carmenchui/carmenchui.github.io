@@ -50,6 +50,7 @@ cd bin
 ## Prover9
 1. Keep Terminal open -- you will need to use Terminal to use the command-line version of Prover9.
 Commands are of the following format.
+
 ```shell
 ./prover9 [-h] [-x] [-p] [-t <n>] [-f <files>]
 
@@ -103,6 +104,7 @@ Time limit is 60 seconds, it takes in a file called `bipartite_incidence.in` and
 ## Mace4
 
 1.  In Terminal, to run Mace4, the commands are of this format:
+
 ```shell
 ./mace4 [-t <n>] [-n <k>] [-m <z>] [-f <files>]
 
