@@ -64,6 +64,7 @@ Commands are of the following format.
 
 Your ontology should be placed between  the `formula(assumptions).` and `end_of_list.` tags.
 3.  Put the goal in between the `formula(goals).` and `end_of_list.` tags.
+
 ```shell
 formulas(assumptions).
 
@@ -88,6 +89,7 @@ end_of_list.
 (In this example, we have no goal.)
 4. Save the file and name it in the `*.in` format.
 5. To run Prover9, you will need to issue the following command:
+
 ```shell
 ./prover9 -t 60 -f bipartite_incidence.in > bipartite_incidence.out
 ```
@@ -118,15 +120,18 @@ In this example, we ask Mace4 to search for:
 * with a time limit of 60 seconds, 
 * using the file `bipartite_incidence_in`, and 
 * writing the output to `bipartite_incidence.out`.
+
 ```shell
 ./mace4 -t 60 -n 2 -m 10 -f bipartite_incidence.in > bipartite_incidence.out
 ```
 Normally we don't need to specify the domain size or model limit, so you can also use the command in this format:
+
 ```shell
 ./mace4 -t 60 -f bipartite_incidence.in > bipartite_incidence.out
 ```
 ![](files/prover9/2019-10-22_22-10-43.jpg)
 Note: you can also name the model output as `.model` if you want to distinguish your proof output files from the model output files.
+
 ```shell
 ./mace4 -t 60 -n 2 -m 10 -f bipartite_incidence.in > bipartite_incidence.model
 ./mace4 -t 60 -f bipartite_incidence.in > bipartite_incidence.model
