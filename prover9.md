@@ -22,7 +22,7 @@ There is a lot more information in the official manual for both programs, but he
 
 3. Open Terminal in Mac.
 
-![](2019-10-22_22-03-43.jpg)
+![](files/prover9/2019-10-22_22-03-43.jpg)
 
 4. Navigate to the unzipped folder and then use the 'make all' command to compile the files:
 
@@ -32,7 +32,7 @@ cd LADR-2009-11A
 make all
 ```
 
-![](2019-10-22_21-57-49.jpg)
+![](files/prover9/2019-10-22_21-57-49.jpg)
 
 (It make take a minute or two to compile.)
 
@@ -45,12 +45,12 @@ make test2
 make test3
 ```
 
-![](2019-10-22_22-00-58.jpg)
+![](files/prover9/2019-10-22_22-00-58.jpg)
 
 
 4. Once it is done, it indicates that the binary files you need are found in the `/bin` folder.
 
-![](2019-10-22_22-01-43.jpg)
+![](files/prover9/2019-10-22_22-01-43.jpg)
 
 5. In Terminal, give permissions to the folder to be able to run the binaries:
 
@@ -62,7 +62,7 @@ chmod -R +x bin
 ```bash
 cd bin
 ```
-![](2019-10-22_22-03-03.jpg)
+![](files/prover9/2019-10-22_22-03-03.jpg)
 
 ## Prover9
 1. Keep Terminal open -- you will need to use Terminal to use the command-line version of Prover9.
@@ -104,7 +104,7 @@ formulas(goals).
 end_of_list.
 ```
 
-![](2019-10-22_22-05-30.jpg)
+![](files/prover9/2019-10-22_22-05-30.jpg)
 
 (In this example, we have no goal.)
 
@@ -117,7 +117,7 @@ end_of_list.
 ```
 Time limit is 60 seconds, it takes in a file called `bipartite_incidence.in` and outputs to a file called `bipartite_incidence.out`.
 
-![](2019-10-22_22-06-50.jpg)
+![](files/prover9/2019-10-22_22-06-50.jpg)
 
 6. The following output messages will be displayed in Terminal:
 * `SEARCH FAILED` = no proof
@@ -125,10 +125,10 @@ Time limit is 60 seconds, it takes in a file called `bipartite_incidence.in` and
 
 7. If you open the output file, you will see the output of whether or not a proof was generated.
 
-![](2019-10-22_22-07-34.jpg)
+![](files/prover9/2019-10-22_22-07-34.jpg)
 
 8. If a proof was generated, check the `PROOF` section. (If there's no proof, check the statistics section and you'll see that `proofs=0`.)
-![](2019-10-22_22-09-31.jpg)
+![](files/prover9/2019-10-22_22-09-31.jpg)
 
 ## Mace4
 
@@ -157,7 +157,7 @@ Normally we don't need to specify the domain size or model limit, so you can als
 ```bash
 ./mace4 -t 60 -f bipartite_incidence.in > bipartite_incidence.out
 ```
-![](2019-10-22_22-10-43.jpg)
+![](files/prover9/2019-10-22_22-10-43.jpg)
 
 Note: you can also name the model output as `.model` if you want to distinguish your proof output files from the model output files.
 
@@ -168,7 +168,7 @@ Note: you can also name the model output as `.model` if you want to distinguish 
 
 2. Open the output file in your editor of choice and the output will be found in the `MODEL` section.
 
-![](2019-10-22_22-11-30.jpg)
+![](files/prover9/2019-10-22_22-11-30.jpg)
 
 ## Cooking Models in Command Line
 
@@ -191,12 +191,12 @@ Note: you can also name the model output as `.model` if you want to distinguish 
 ./interpformat cooked -f bipartite_incidence.out > bipartite_incidence.cooked
 ```
 
-![](2019-10-22_22-12-04.jpg)
+![](files/prover9/2019-10-22_22-12-04.jpg)
 
 4. Check your folder for the `bipartite_incidence.cooked`.
 
-![](2019-10-22_22-13-00.jpg)
+![](files/prover9/2019-10-22_22-13-00.jpg)
 
 5.  Open the cooked model file and you will see that the model has been cooked.
 
-![](2019-10-22_22-13-39.jpg)
+![](files/prover9/2019-10-22_22-13-39.jpg)
