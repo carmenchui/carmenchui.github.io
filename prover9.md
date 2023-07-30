@@ -50,7 +50,6 @@ cd bin
 ## Prover9
 1. Keep Terminal open -- you will need to use Terminal to use the command-line version of Prover9.
 Commands are of the following format.
-
 ```shell
 ./prover9 [-h] [-x] [-p] [-t <n>] [-f <files>]
 
@@ -63,9 +62,8 @@ Commands are of the following format.
 2. Your Prover9 input file will need to look like the screenshot below -- use a text editor like TextEdit or an editor of your choice (note: **never Microsoft Word**).
 
 Your ontology should be placed between  the `formula(assumptions).` and `end_of_list.` tags.
-
 3.  Put the goal in between the `formula(goals).` and `end_of_list.` tags.
-```
+```shell
 formulas(assumptions).
 
 all x all y (in(x,y) -> in(y,x)).
@@ -85,7 +83,6 @@ formulas(goals).
 
 end_of_list.
 ```
-
 ![](files/prover9/2019-10-22_22-05-30.jpg)
 (In this example, we have no goal.)
 4. Save the file and name it in the `*.in` format.
@@ -122,29 +119,21 @@ In this example, we ask Mace4 to search for:
 ```shell
 ./mace4 -t 60 -n 2 -m 10 -f bipartite_incidence.in > bipartite_incidence.out
 ```
-
 Normally we don't need to specify the domain size or model limit, so you can also use the command in this format:
-
 ```shell
 ./mace4 -t 60 -f bipartite_incidence.in > bipartite_incidence.out
 ```
 ![](files/prover9/2019-10-22_22-10-43.jpg)
-
 Note: you can also name the model output as `.model` if you want to distinguish your proof output files from the model output files.
-
 ```shell
 ./mace4 -t 60 -n 2 -m 10 -f bipartite_incidence.in > bipartite_incidence.model
 ./mace4 -t 60 -f bipartite_incidence.in > bipartite_incidence.model
 ```
-
 2. Open the output file in your editor of choice and the output will be found in the `MODEL` section.
-
 ![](files/prover9/2019-10-22_22-11-30.jpg)
 
 ## Cooking Models in Command Line
-
 1. The model output is not very readable, in order to cook it, you will also have to do this in the Terminal.  There is an `interpformat` binary also in the folder.  You can use it to convert the model output.  The commands are of this format with the following options for converting models:
-
 ```shell
 ./interpformat standard  -f x2.mace4.out > x2.standard
 ./interpformat standard2 -f x2.mace4.out > x2.standard2
@@ -156,18 +145,12 @@ Note: you can also name the model output as `.model` if you want to distinguish 
 ./interpformat tex       -f x2.mace4.out > x2.tex
 ```
 2.  We are only interested in **cooked** models so we don't need to look at the other settings.
-
 3.  With our example, we want to cook the bipartite_incidence model output.  We can do it using this command.
 ```shell
 ./interpformat cooked -f bipartite_incidence.out > bipartite_incidence.cooked
 ```
-
 ![](files/prover9/2019-10-22_22-12-04.jpg)
-
 4. Check your folder for the `bipartite_incidence.cooked`.
-
 ![](files/prover9/2019-10-22_22-13-00.jpg)
-
 5.  Open the cooked model file and you will see that the model has been cooked.
-
 ![](files/prover9/2019-10-22_22-13-39.jpg)
