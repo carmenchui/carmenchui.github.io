@@ -6,7 +6,7 @@ title: Carmen S. Chui, Ph.D.
 ## About
 Hi, my name is Carmen (my pronouns are she/her).
 
-I hold a doctorate in Industrial Engineering from the University of Toronto and trained under [Prof. Michael Gruninger](http://stl.mie.utoronto.ca/gruninger.html) in the Semantic Technologies Lab.
+I hold a doctorate in Industrial Engineering from the University of Toronto and trained under [Prof. Michael Gruninger](https://stl.mie.utoronto.ca/biography-2/) in the Semantic Technologies Lab.
 
 I specialize in the design and analysis of ontologies in first-order logic, particularly automated reasoning and verification, in addition to knowledge representation and modelling in multidisciplinary areas.
 
