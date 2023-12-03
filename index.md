@@ -17,7 +17,7 @@ My research interests include:
 - Applications of ontologies to data and knowledge integration
 - Engineering education
 
-For more up-to-date information, please refer to my LinkedIn. Thank you!
+For more up-to-date information, please refer to my [LinkedIn](https://www.linkedin.com/in/carmenchui/). Thank you!
 
 ## Education
 - **Ph.D. in [Industrial Engineering](https://www.mie.utoronto.ca/programs/graduate/phd/)** (2013-2019)
