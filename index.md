@@ -19,6 +19,12 @@ My research interests include:
 
 For more up-to-date information, please refer to my [LinkedIn](https://www.linkedin.com/in/carmenchui/). Thank you!
 
+## Experience
+- Data Architect, Google, January 2023-present
+  - Mountain View California, USA
+- Senior Business Data Architect, Scotiabank, December 2020-January 2023
+  - Toronto, Ontario, Canada
+
 ## Education
 - **Ph.D. in [Industrial Engineering](https://www.mie.utoronto.ca/programs/graduate/phd/)** (2013-2019)
   - [University of Toronto](http://www.utoronto.ca), Toronto, Canada
