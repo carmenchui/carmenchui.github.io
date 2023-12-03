@@ -17,12 +17,14 @@ My research interests include:
 - Applications of ontologies to data and knowledge integration
 - Engineering education
 
-For more up-to-date information, please refer to my [LinkedIn](https://www.linkedin.com/in/carmenchui/). Thank you!
-
 ## Experience
-- Data Architect, Google, January 2023-present
+For more up-to-date information, please refer to my [LinkedIn](https://www.linkedin.com/in/carmenchui/).
+
+- _Data Architect_, Google LLC, January 2023--present
   - Mountain View California, USA
-- Senior Business Data Architect, Scotiabank, December 2020-January 2023
+- _Senior Business Data Architect_, Scotiabank, December 2020--January 2023
+  - Toronto, Ontario, Canada
+- _Postdoctoral Researcher_, Royal Bank of Canada & University of Toronto, April 2019--November 2020
   - Toronto, Ontario, Canada
 
 ## Education
